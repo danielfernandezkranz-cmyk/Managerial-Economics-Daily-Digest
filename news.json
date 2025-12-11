@@ -1,0 +1,53 @@
+[
+    {
+        "id": "2023-12-11",
+        "date": "2023-12-11",
+        "source": "The Financial Times",
+        "title": "Fed Holds Steady: Powell Signals Rate Cuts in 2024",
+        "summary": "The Federal Reserve left interest rates unchanged at a 22-year high but signaled that its historic tightening campaign is likely over, projecting three quarter-point rate cuts next year.",
+        "imageUrl": "assets/images/fed_powell.png",
+        "articleUrl": "https://www.ft.com/content/fed-rates-unchanged",
+        "question": "If the Federal Reserve signals rate cuts for 2024, what is the immediate expected mechanism of transmission to the real economy?",
+        "options": [
+            "Immediate increase in government spending due to lower debt service costs.",
+            "A decrease in long-term bond yields as markets price in future lower rates, stimulating investment.",
+            "An increase in tax revenues due to higher expected corporate profits."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. Markets are forward-looking. When the Fed signals future cuts, bond traders bid up the price of long-term bonds, driving down yields. Lower yields reduce borrowing costs for mortgages and corporate investment immediately, even before the Fed actually cuts the overnight rate."
+    },
+    {
+        "id": "2023-12-10",
+        "date": "2023-12-10",
+        "source": "The Economist",
+        "title": "ECB's Dilemma: Inflation Cools but Wages Heat Up",
+        "summary": "Eurozone inflation has dropped faster than expected to 2.4%, but Christine Lagarde warns that wage pressures remain too high to discuss loosening policy just yet.",
+        "imageUrl": "assets/images/ecb_lagarde.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/ecb-inflation-wages",
+        "question": "Why would the ECB be reluctant to cut rates even if headline inflation is falling?",
+        "options": [
+            "Because fiscal policy in the Eurozone is currently too contractionary.",
+            "Because high wage growth can lead to a 'wage-price spiral' in the services sector, keeping core inflation elevated.",
+            "Because the Euro is currently too weak against the Dollar."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. Even if energy prices drop (lowering headline inflation), if wages are rising fast (above productivity growth), service providers must raise prices to cover costs. This keeps 'core' inflation sticky, preventing the central bank from cutting rates prematurely."
+    },
+    {
+        "id": "2023-12-09",
+        "date": "2023-12-09",
+        "source": "Bloomberg",
+        "title": "Fiscal Drag: Germany Budget Crisis Deepens",
+        "summary": "Germany's coalition government struggles to plug a €17bn hole in the 2024 budget after a court ruling banned the use of off-budget vehicles, forcing strict adherence to the 'debt brake'.",
+        "imageUrl": "assets/images/germany_budget.png",
+        "articleUrl": "https://www.bloomberg.com/news/articles/germany-budget-crisis",
+        "question": "In the IS-LM framework, what is the effect of a forced reduction in government spending (fiscal contraction) to meet debt brake rules?",
+        "options": [
+            "The IS curve shifts left, lowering both output (Y) and interest rates (r).",
+            "The IS curve shifts right, increasing output (Y) and interest rates (r).",
+            "The LM curve shifts left, increasing interest rates (r) and lowering output (Y)."
+        ],
+        "correctOption": 0,
+        "explanation": "Correct. A reduction in Government Spending (G) is a negative shock to aggregate demand. This shifts the IS curve to the left. The new equilibrium is at a lower level of income/output (Y) and a lower interest rate (r), as lower demand for money reduces the 'price' of money."
+    }
+]

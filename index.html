@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Managerial Economics Daily Digest</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header class="site-header">
+        <div class="container header-content">
+            <div class="logo-area">
+                <h1>Managerial Economics <span class="highlight">Daily Digest</span></h1>
+                <p class="subtitle">Prof. Daniel Fernández Kranz | MBA 2025</p>
+            </div>
+            <button id="archive-btn" class="archive-btn" aria-label="Open Archive">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8v13H3V8"/><path d="M1 3h22v5H1z"/><path d="M10 12h4"/></svg>
+                Past Digests
+            </button>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        <!-- Date Display -->
+        <div class="date-display">
+            <span id="current-date">Fetching date...</span>
+        </div>
+
+        <!-- News Card -->
+        <article class="news-card" id="news-card">
+            <div class="news-image-container">
+                <img src="" alt="News Image" id="news-image" class="news-image">
+                <span class="news-source-tag" id="news-source">Source</span>
+            </div>
+            <div class="news-content">
+                <h2 id="news-title" class="news-title">Loading today's news...</h2>
+                <p id="news-summary" class="news-summary">Please wait while we fetch the latest economic update.</p>
+                <a href="#" target="_blank" id="news-link" class="read-more-link">Read Original Article &rarr;</a>
+            </div>
+        </article>
+
+        <!-- Quiz Section -->
+        <section class="quiz-section" id="quiz-section">
+            <div class="quiz-header">
+                <h3><span class="icon">?</span> Question of the Day</h3>
+                <p>Test your understanding of the policy implications.</p>
+            </div>
+            
+            <div class="question-container">
+                <p id="question-text" class="question-text">Loading question...</p>
+                
+                <div class="options-container" id="options-container">
+                    <!-- Options injected by JS -->
+                </div>
+
+                <div id="feedback-area" class="feedback-area hidden">
+                    <div class="feedback-header">
+                        <span id="feedback-icon"></span>
+                        <h4 id="feedback-title"></h4>
+                    </div>
+                    <p id="feedback-text"></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Archive Sidebar/Modal -->
+    <div id="archive-sidebar" class="archive-sidebar">
+        <div class="archive-header">
+            <h2>Digest Archive</h2>
+            <button id="close-archive" class="close-btn">&times;</button>
+        </div>
+        <div class="archive-list" id="archive-list">
+            <!-- Archive items injected by JS -->
+        </div>
+    </div>
+    <div id="archive-overlay" class="archive-overlay"></div>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 Managerial Economics. Prof. Daniel Fernández Kranz.</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
