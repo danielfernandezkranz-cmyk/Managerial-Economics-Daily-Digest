@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "source": "CNBC",
             "title": "Case for more Fed rate cuts could rest on 'systemic overcount' of jobs",
             "summary": "Fed Chair Powell suggests job growth may be overstated by 60k/month. If the labor market is actually weaker than official data suggests, the 'data-dependent' Fed may be forced to cut rates more aggressively in 2026 to prevent a recession.",
-            "imageUrl": "assets/images/us_labor_market_correction.png",
+            "imageUrl": "assets/images/digest_cover.png",
             "articleUrl": "https://www.cnbc.com/2025/12/11/case-for-more-fed-rate-cuts-could-rest-on-systemic-overcount-of-jobs.html",
             "question": "If labor market data is systemically overstated (meaning actual employment is lower than reported), how does this affect the 'Output Gap' variable in a standard Taylor Rule, and what is the policy implication?",
             "options": [
