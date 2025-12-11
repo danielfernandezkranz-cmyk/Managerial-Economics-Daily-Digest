@@ -127,7 +127,8 @@ document.addEventListener('DOMContentLoaded', () => {
         elements.dateDisplay.textContent = new Date(item.date).toLocaleDateString('en-US', dateOptions);
 
         // Content
-        elements.newsImage.src = item.imageUrl;
+        // elements.newsImage.src = item.imageUrl; // Disabled dynamic images per user request
+        elements.newsImage.src = 'assets/images/digest_cover.png'; // Static cover image
         elements.newsSource.textContent = item.source;
         elements.newsTitle.textContent = item.title;
         elements.newsSummary.textContent = item.summary;
