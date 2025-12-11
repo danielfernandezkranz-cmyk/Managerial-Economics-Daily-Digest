@@ -1,37 +1,54 @@
 [
     {
-        "id": "2023-12-11",
-        "date": "2023-12-11",
-        "source": "The Financial Times",
-        "title": "Fed Holds Steady: Powell Signals Rate Cuts in 2024",
-        "summary": "The Federal Reserve left interest rates unchanged at a 22-year high but signaled that its historic tightening campaign is likely over, projecting three quarter-point rate cuts next year.",
-        "imageUrl": "assets/images/fed_powell.png",
-        "articleUrl": "https://www.ft.com/content/fed-rates-unchanged",
-        "question": "If the Federal Reserve signals rate cuts for 2024, what is the immediate expected mechanism of transmission to the real economy?",
+        "id": "2025-12-11",
+        "date": "2025-12-11",
+        "source": "CNBC",
+        "title": "Case for more Fed rate cuts could rest on 'systemic overcount' of jobs",
+        "summary": "Fed Chair Powell suggests job growth may be overstated by 60k/month. If the labor market is actually weaker than official data suggests, the 'data-dependent' Fed may be forced to cut rates more aggressively in 2026 to prevent a recession.",
+        "imageUrl": "assets/images/us_labor_market_correction.png",
+        "articleUrl": "https://www.cnbc.com/2025/12/11/case-for-more-fed-rate-cuts-could-rest-on-systemic-overcount-of-jobs.html",
+        "question": "If labor market data is systemically overstated (meaning actual employment is lower than reported), how does this affect the 'Output Gap' variable in a standard Taylor Rule, and what is the policy implication?",
         "options": [
-            "Immediate increase in government spending due to lower debt service costs.",
-            "A decrease in long-term bond yields as markets price in future lower rates, stimulating investment.",
-            "An increase in tax revenues due to higher expected corporate profits."
+            "The positive output gap is larger, implying rates should be higher to cool the economy.",
+            "The output gap is actually more negative (or less positive), implying monetary policy is too tight and rates should comprise.",
+            "Labor market errors do not affect the Taylor Rule, which only looks at inflation variance."
         ],
         "correctOption": 1,
-        "explanation": "Correct. Markets are forward-looking. When the Fed signals future cuts, bond traders bid up the price of long-term bonds, driving down yields. Lower yields reduce borrowing costs for mortgages and corporate investment immediately, even before the Fed actually cuts the overnight rate."
+        "explanation": "Correct. The Taylor Rule sets rates based on inflation deviation and the Output Gap (difference between actual and potential GDP/Employment). If employment is overstated, the actual economy is weaker (more negative gap) than thought. This calls for a lower interest rate to stimulate demand."
     },
     {
-        "id": "2023-12-10",
-        "date": "2023-12-10",
-        "source": "The Economist",
-        "title": "ECB's Dilemma: Inflation Cools but Wages Heat Up",
-        "summary": "Eurozone inflation has dropped faster than expected to 2.4%, but Christine Lagarde warns that wage pressures remain too high to discuss loosening policy just yet.",
-        "imageUrl": "assets/images/ecb_lagarde.png",
-        "articleUrl": "https://www.economist.com/finance-and-economics/ecb-inflation-wages",
-        "question": "Why would the ECB be reluctant to cut rates even if headline inflation is falling?",
+        "id": "2024-12-18",
+        "date": "2024-12-18",
+        "source": "J.P. Morgan / Federal Reserve",
+        "title": "Fed Cuts Rates by 25bps: Signals Slower Path for 2025",
+        "summary": "The Federal Reserve cut its benchmark interest rate by 0.25 percentage points to a range of 4.25%-4.5%, marking the sixth cut since September. While inflation measures have improved, the 'dot plot' suggests a slower pace of future cuts than markets previously hoped.",
+        "imageUrl": "assets/images/fed_cut_dec2024.png",
+        "articleUrl": "https://www.jpmorgan.com/insights/outlook/economic-outlook/fed-meeting-december-2024",
+        "question": "The Fed lowered rates to support the labor market despite inflation being slightly sticky. According to the Phillips Curve short-run trade-off, what is the implicit risk of cutting rates while full employment is high?",
         "options": [
-            "Because fiscal policy in the Eurozone is currently too contractionary.",
-            "Because high wage growth can lead to a 'wage-price spiral' in the services sector, keeping core inflation elevated.",
-            "Because the Euro is currently too weak against the Dollar."
+            "It risks causing a liquidity trap where monetary policy becomes ineffective.",
+            "It risks re-igniting demand-pull inflation by stimulating aggregate demand too much relative to supply.",
+            "It risks increasing the unemployment rate due to the crowding-out effect."
         ],
         "correctOption": 1,
-        "explanation": "Correct. Even if energy prices drop (lowering headline inflation), if wages are rising fast (above productivity growth), service providers must raise prices to cover costs. This keeps 'core' inflation sticky, preventing the central bank from cutting rates prematurely."
+        "explanation": "Correct. The Phillips Curve suggests a short-run inverse relationship between unemployment and inflation. Cutting rates fuels aggregate demand (consumption and investment). If the economy is already near full employment, this extra demand can push prices up (demand-pull inflation) rather than just increasing output."
+    },
+    {
+        "id": "2024-12-12",
+        "date": "2024-12-12",
+        "source": "European Central Bank",
+        "title": "ECB Cuts Rates as Inflation Outlook Improves",
+        "summary": "The ECB Governing Council lowered its key interest rates by 25 basis points. With inflation projections falling to 2.1% for 2025, the central bank is confident the disinflationary process is arguably well underway despite some service sector wage pressure.",
+        "imageUrl": "assets/images/ecb_lagarde.png",
+        "articleUrl": "https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.mp241212~2166549c71.en.html",
+        "question": "If the ECB cuts rates while the Fed (hypothetically) held them higher, what would be the expected impact on the Euro/Dollar exchange rate according to Interest Rate Parity?",
+        "options": [
+            "The Euro would appreciate against the Dollar as European assets become more valuable.",
+            "The Euro would depreciate against the Dollar as capital flows move to the higher-yield US jurisdiction.",
+            "The exchange rate would remain unchanged as purchasing power parity holds in the short run."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. Lower interest rates in the Eurozone (relative to the US) reduce the return on Euro-denominated assets. Investors seeking higher yield sell Euros to buy Dollars, increasing supply of Euros and demand for Dollars, causing the Euro to depreciate."
     },
     {
         "id": "2023-12-09",
