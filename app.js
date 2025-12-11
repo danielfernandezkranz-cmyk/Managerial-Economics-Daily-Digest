@@ -128,6 +128,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Content
         // elements.newsImage.src = item.imageUrl; // Disabled dynamic images per user request
+
+        elements.newsImage.onerror = function () {
+            // If PNG fails, try JPG
+            if (this.src.endsWith('.png')) {
+                this.src = 'assets/images/digest_cover.jpg';
+            } else {
+                console.error("Cover image could not be loaded. Please check it is uploaded to assets/images/digest_cover.png");
+                this.style.border = "5px solid red"; // Visual cue for debugging
+            }
+        };
+
         elements.newsImage.src = 'assets/images/digest_cover.png'; // Static cover image
         elements.newsSource.textContent = item.source;
         elements.newsTitle.textContent = item.title;
@@ -188,7 +199,17 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderArchive() {
         elements.archiveList.innerHTML = '';
 
-        newsData.forEach(item => {
+        // Filter out the currently displayed item from the archive list
+        // We assume the FIRST item in the sorted list is what's displayed as "Today's News"
+        // (or we could track the displayed ID, but this is simpler for now)
+        const pastNews = newsData.slice(1);
+
+        if (pastNews.length === 0) {
+            elements.archiveList.innerHTML = '<div style="padding:1rem; color:#888; text-align:center;">No past digests yet.</div>';
+            return;
+        }
+
+        pastNews.forEach(item => {
             const div = document.createElement('div');
             div.className = 'archive-item';
             div.innerHTML = `

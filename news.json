@@ -15,56 +15,6 @@
         ],
         "correctOption": 1,
         "explanation": "Correct. The Taylor Rule sets rates based on inflation deviation and the Output Gap (difference between actual and potential GDP/Employment). If employment is overstated, the actual economy is weaker (more negative gap) than thought. This calls for a lower interest rate to stimulate demand."
-    },
-    {
-        "id": "2024-12-18",
-        "date": "2024-12-18",
-        "source": "J.P. Morgan / Federal Reserve",
-        "title": "Fed Cuts Rates by 25bps: Signals Slower Path for 2025",
-        "summary": "The Federal Reserve cut its benchmark interest rate by 0.25 percentage points to a range of 4.25%-4.5%, marking the sixth cut since September. While inflation measures have improved, the 'dot plot' suggests a slower pace of future cuts than markets previously hoped.",
-        "imageUrl": "assets/images/fed_cut_dec2024.png",
-        "articleUrl": "https://www.jpmorgan.com/insights/outlook/economic-outlook/fed-meeting-december-2024",
-        "question": "The Fed lowered rates to support the labor market despite inflation being slightly sticky. According to the Phillips Curve short-run trade-off, what is the implicit risk of cutting rates while full employment is high?",
-        "options": [
-            "It risks causing a liquidity trap where monetary policy becomes ineffective.",
-            "It risks re-igniting demand-pull inflation by stimulating aggregate demand too much relative to supply.",
-            "It risks increasing the unemployment rate due to the crowding-out effect."
-        ],
-        "correctOption": 1,
-        "explanation": "Correct. The Phillips Curve suggests a short-run inverse relationship between unemployment and inflation. Cutting rates fuels aggregate demand (consumption and investment). If the economy is already near full employment, this extra demand can push prices up (demand-pull inflation) rather than just increasing output."
-    },
-    {
-        "id": "2024-12-12",
-        "date": "2024-12-12",
-        "source": "European Central Bank",
-        "title": "ECB Cuts Rates as Inflation Outlook Improves",
-        "summary": "The ECB Governing Council lowered its key interest rates by 25 basis points. With inflation projections falling to 2.1% for 2025, the central bank is confident the disinflationary process is arguably well underway despite some service sector wage pressure.",
-        "imageUrl": "assets/images/ecb_lagarde.png",
-        "articleUrl": "https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.mp241212~2166549c71.en.html",
-        "question": "If the ECB cuts rates while the Fed (hypothetically) held them higher, what would be the expected impact on the Euro/Dollar exchange rate according to Interest Rate Parity?",
-        "options": [
-            "The Euro would appreciate against the Dollar as European assets become more valuable.",
-            "The Euro would depreciate against the Dollar as capital flows move to the higher-yield US jurisdiction.",
-            "The exchange rate would remain unchanged as purchasing power parity holds in the short run."
-        ],
-        "correctOption": 1,
-        "explanation": "Correct. Lower interest rates in the Eurozone (relative to the US) reduce the return on Euro-denominated assets. Investors seeking higher yield sell Euros to buy Dollars, increasing supply of Euros and demand for Dollars, causing the Euro to depreciate."
-    },
-    {
-        "id": "2023-12-09",
-        "date": "2023-12-09",
-        "source": "Bloomberg",
-        "title": "Fiscal Drag: Germany Budget Crisis Deepens",
-        "summary": "Germany's coalition government struggles to plug a €17bn hole in the 2024 budget after a court ruling banned the use of off-budget vehicles, forcing strict adherence to the 'debt brake'.",
-        "imageUrl": "assets/images/germany_budget.png",
-        "articleUrl": "https://www.bloomberg.com/news/articles/germany-budget-crisis",
-        "question": "In the IS-LM framework, what is the effect of a forced reduction in government spending (fiscal contraction) to meet debt brake rules?",
-        "options": [
-            "The IS curve shifts left, lowering both output (Y) and interest rates (r).",
-            "The IS curve shifts right, increasing output (Y) and interest rates (r).",
-            "The LM curve shifts left, increasing interest rates (r) and lowering output (Y)."
-        ],
-        "correctOption": 0,
-        "explanation": "Correct. A reduction in Government Spending (G) is a negative shock to aggregate demand. This shifts the IS curve to the left. The new equilibrium is at a lower level of income/output (Y) and a lower interest rate (r), as lower demand for money reduces the 'price' of money."
     }
 ]
+```
