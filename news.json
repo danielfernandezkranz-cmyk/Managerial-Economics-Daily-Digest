@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-12",
+        "date": "2025-12-12",
+        "source": "CNBC",
+        "title": "PCE Inflation Hits 2.8%: Fed Likely to Cut Rates",
+        "summary": "Core PCE inflation (the Fed's preferred measure) came in at 2.8% for September, slightly lower than expected. This 'stable' reading, despite tariffs, provides the Federal Reserve with the necessary 'air cover' to proceed with a rate cut next week.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.cnbc.com/2025/12/05/pce-inflation-report-september-2025.html",
+        "question": "The article explicitly distinguishes between 'Headline PCE' and 'Core PCE'. Why does the Federal Reserve prefer 'Core PCE' as a guide for monetary policy?",
+        "options": [
+            "Because Core PCE includes food and energy prices, which are the most important costs for consumers.",
+            "Because Core PCE excludes volatile food and energy prices, providing a better signal of underlying long-term inflation trends.",
+            "Because Core PCE is released weekly, whereas Headline PCE is only monthly."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. Food and energy prices are volatile and often driven by external supply shocks (e.g., oil wars, bad harvests) that monetary policy cannot control. 'Core' inflation filters these out to reveal the persistent trend that the Fed *can* influence."
+    },
+    {
         "id": "2025-12-11",
         "date": "2025-12-11",
         "source": "CNBC",
