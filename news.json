@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-13",
+        "date": "2025-12-13",
+        "source": "CNBC",
+        "title": "Treasury Sec. Bessent Predicts 3% Real GDP Growth for 2025",
+        "summary": "Treasury Secretary Scott Bessent claims the U.S. economy will end the year with 3% Real GDP growth, citing a 'very strong' holiday season. However, Consumer Sentiment remains low (53.3), highlighting a disconnect between macroeconomic data and household perception.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.cnbc.com/2025/12/07/bessent-gdp-growth.html",
+        "question": "The article notes a divergence between strong Real GDP growth (3%) and low Consumer Sentiment. Which economic concept best explains why consumers might feel poorer despite growing output?",
+        "options": [
+            "The Multiplier Effect: Government spending hasn't trickled down yet.",
+            "Money Illusion: If inflation is high, nominal wages rise but purchasing power (real wages) may fall or stagnate, making people feel squeezed despite growth.",
+            "The Crowding Out Effect: High interest rates effectively reduced disposable income."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. GDP measures total output, but doesn't capture cost-of-living pressure directly. If inflation (prices) rose faster than wages for much of the period, households lost purchasing power (Real Wages fell). 'Money Illusion' refers to the confusion between nominal and real values, but the feeling of being squeezed is a real income effect."
+    },
+    {
         "id": "2025-12-11",
         "date": "2025-12-11",
         "source": "CNBC",
