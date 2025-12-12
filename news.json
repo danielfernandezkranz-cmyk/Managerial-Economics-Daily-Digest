@@ -7,14 +7,14 @@
         "summary": "Treasury Secretary Scott Bessent claims the U.S. economy will end the year with 3% Real GDP growth, citing a 'very strong' holiday season. However, Consumer Sentiment remains low (53.3), highlighting a disconnect between macroeconomic data and household perception.",
         "imageUrl": "assets/images/digest_cover.png",
         "articleUrl": "https://www.cnbc.com/2025/12/07/bessent-gdp-growth.html",
-        "question": "The article notes a divergence between strong Real GDP growth (3%) and low Consumer Sentiment. Which economic concept best explains why consumers might feel poorer despite growing output?",
+        "question": "The article captures a 'Vibecession': Real GDP is strong (3%), yet Consumer Sentiment is near recessionary lows (53.3). Which limitation of GDP best explains this paradox?",
         "options": [
-            "The Multiplier Effect: Government spending hasn't trickled down yet.",
-            "Money Illusion: If inflation is high, nominal wages rise but purchasing power (real wages) may fall or stagnate, making people feel squeezed despite growth.",
-            "The Crowding Out Effect: High interest rates effectively reduced disposable income."
+            "GDP includes the shadow economy, which falsely boosts the headline growth number.",
+            "GDP is an aggregate flow variable (production), but it does not measure income distribution or the psychological burden of permanently higher price levels.",
+            "Real GDP calculations fail to account for inflation, meaning the 3% figure is actually nominal."
         ],
         "correctOption": 1,
-        "explanation": "Correct. GDP measures total output, but doesn't capture cost-of-living pressure directly. If inflation (prices) rose faster than wages for much of the period, households lost purchasing power (Real Wages fell). 'Money Illusion' refers to the confusion between nominal and real values, but the feeling of being squeezed is a real income effect."
+        "explanation": "Correct. GDP is an aggregate measure of total output. It does not account for how that income is distributed (inequality) nor does it capture the 'sticker shock' consumers feel from high price *levels*, even if the *rate* of inflation (change) has slowed."
     },
     {
         "id": "2025-12-11",
