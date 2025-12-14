@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-14",
+        "date": "2025-12-14",
+        "source": "Investopedia",
+        "title": "If The Fed Is Cutting Rates, Why Are 10-Year Treasury Yields Rising?",
+        "summary": "Despite recent Fed rate cuts, 10-year Treasury yields have unexpectedly risen. This divergence is largely attributed to market concerns over persistent high government deficits increasing bond supply, and the potential for these deficits to reignite future inflation.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.investopedia.com/if-the-fed-is-cutting-interest-rates-why-are-10-year-treasury-yields-rising-11866015",
+        "question": "According to the analysis, what primary fiscal factors are driving long-term Treasury yields higher despite Fed easing?",
+        "options": [
+            "Expectations of increased bond supply due to high deficits, and fears of higher future inflation.",
+            "Expectations that the Federal Reserve will rapidly decrease the money supply.",
+            "A sudden surplus in the federal budget reducing the need for borrowing."
+        ],
+        "correctOption": 0,
+        "explanation": "Correct. Long-term yields are market-determined. If investors expect a flood of new Treasury issuance (increased supply) to fund deficits, or fear that fiscal looseness will lead to inflation, they sell bonds, pushing yields higher."
+    },
+    {
         "id": "2025-12-13",
         "date": "2025-12-13",
         "source": "CNBC",
