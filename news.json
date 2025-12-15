@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-15",
+        "date": "2025-12-15",
+        "source": "BBC",
+        "title": "What is GDP and how fast is the UK economy growing?",
+        "summary": "The UK economy slowed to 0.1% growth in Q3 2025. Early GDP estimates are volatile and subject to revision as they rely primarily on the Output method before full data from Expenditure and Income approaches is available.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.bbc.com/news/articles/c0j7p38jg15o",
+        "question": "The article notes that GDP can be measured in three ways: Output, Expenditure, and Income. Why do *early* GDP estimates in the UK rely primarily on the 'Output' approach?",
+        "options": [
+            "Because company production data (Output) is available faster than expenditure or income data.",
+            "Because the Output approach is the only one that accounts for inflation.",
+            "Because the Expenditure approach ignores government spending."
+        ],
+        "correctOption": 0,
+        "explanation": "Correct. The ONS explains that early estimates (GDP First Quarterly Estimate) rely largely on Output (production) data because it is collected from thousands of companies relatively quickly. Accurate Expenditure and Income data take longer to compile."
+    },
+    {
         "id": "2025-12-14",
         "date": "2025-12-14",
         "source": "Investopedia",
