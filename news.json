@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-16",
+        "date": "2025-12-16",
+        "source": "CNN",
+        "title": "Trump Floats $2,000 Tariff Rebate Checks: What You Need to Know",
+        "summary": "The proposal to distribute $2,000 checks funded by tariff revenue could inject significant liquidity into the economy. However, with the economy not in recession, this demand shock risks reheating inflation ('sugar rush') and might force the Federal Reserve to keep interest rates high to counteract rising prices.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://edition.cnn.com/2025/11/10/economy/tariff-rebate-check-proposal-what-to-know",
+        "question": "In the context of the AD-AS model, how would a $2,000 rebate check funded by tariffs likely affect the economy given current conditions?",
+        "options": [
+            "It would shift Aggregate Demand (AD) to the right, increasing both real GDP and the price level, while potentially unanchoring inflation expectations.",
+            "It would shift Short-Run Aggregate Supply (SRAS) to the right by subsidizing consumption, leading to lower price levels and higher growth.",
+            "It would have no net effect on Aggregate Demand because higher tariffs will exactly offset the increased consumer spending from the rebates."
+        ],
+        "correctOption": 0,
+        "explanation": "Correct. The rebate checks act as a fiscal stimulus, increasing disposable income and consumption. This shifts the AD curve to the right. Since the economy is near full employment, this primarily drives up prices (inflation) and can lead consumers to expect higher future inflation, making the Fed's job harder."
+    },
+    {
         "id": "2025-12-15",
         "date": "2025-12-15",
         "source": "BBC",
