@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-17",
+        "date": "2025-12-17",
+        "source": "Yahoo Finance",
+        "title": "Oil Plummets on Ukraine Peace Talks: What It Means for the Fed",
+        "summary": "Global oil prices have seen a significant decline following reports of peace negotiations in Ukraine and the potential return of Russian supply. Market analysts are closely monitoring how this shift in energy markets will impact the broader macroeconomic landscape.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://finance.yahoo.com/news/brent-oil-extends-slide-below-084313042.html?guccounter=2",
+        "question": "How does a significant, sustained drop in oil prices (a positive supply shock) typically influence the Federal Reserve's decision regarding the Federal Funds Rate?",
+        "options": [
+            "It increases input costs, forcing the Fed to raise rates to prevent cost-push inflation.",
+            "It reduces inflationary pressure, paving the way for the Fed to lower interest rates.",
+            "It has no impact, as the Fed exclusively targets core services inflation regardless of energy prices."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. A drop in oil prices reduces costs across the economy, putting downward pressure on inflation (shifting SRAS to the right). With inflation cooling, the Fed gains more room to lower interest rates (ease policy) to support economic growth, which is generally positive for stock markets."
+    },
+    {
         "id": "2025-12-16",
         "date": "2025-12-16",
         "source": "CNN",
