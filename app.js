@@ -105,7 +105,38 @@ document.addEventListener('DOMContentLoaded', () => {
         elements.newsSource.textContent = item.source;
         elements.newsTitle.textContent = item.title;
         elements.newsSummary.textContent = item.summary;
-        elements.newsLink.href = item.articleUrl;
+        elements.newsLink.style.display = 'none'; // Hide default single link by default
+
+        // Remove any dynamically added link containers from previous renders
+        const existingLinksContainer = elements.newsLink.parentNode.querySelector('.dynamic-links-container');
+        if (existingLinksContainer) {
+            existingLinksContainer.remove();
+        }
+
+        if (item.articleLinks && item.articleLinks.length > 0) {
+            const linksContainer = document.createElement('div');
+            linksContainer.className = 'dynamic-links-container';
+            linksContainer.style.display = 'flex';
+            linksContainer.style.gap = '10px';
+            linksContainer.style.marginTop = '1rem';
+            linksContainer.style.flexWrap = 'wrap';
+
+            item.articleLinks.forEach(link => {
+                const a = document.createElement('a');
+                a.href = link.url;
+                a.target = '_blank';
+                a.className = 'read-more-link';
+                a.textContent = link.text;
+                linksContainer.appendChild(a);
+            });
+
+            elements.newsLink.parentNode.insertBefore(linksContainer, elements.newsLink.nextSibling);
+        } else {
+            // Fallback to single link
+            elements.newsLink.style.display = 'inline-block';
+            elements.newsLink.href = item.articleUrl;
+            elements.newsLink.textContent = "Read Original Article \u2192";
+        }
 
         // Reset Quiz
         renderQuiz(item);

@@ -3,10 +3,20 @@
         "id": "2025-12-18",
         "date": "2025-12-18",
         "source": "CNN & Trading Economics",
-        "title": "Stagflation Fears: Rising Inflation Meets Rising Unemployment",
-        "summary": "Recent data reveals a troubling economic mix: unemployment is hitting higher levels while inflation is simultaneously accelerating. This simultaneous rise in both indicators suggests the economy may be entering a period of stagflation, complicating the Federal Reserve's policy path.",
+        "title": "Rising Inflation Meets Rising Unemployment",
+        "summary": "Recent data reveals a troubling economic mix: unemployment is hitting higher levels while inflation is simultaneously accelerating. This simultaneous rise in both indicators suggests the economy may be entering a difficult period, complicating the Federal Reserve's policy path.",
         "imageUrl": "assets/images/digest_cover.png",
         "articleUrl": "https://edition.cnn.com/2025/12/16/economy/us-jobs-report-final-november-october",
+        "articleLinks": [
+            {
+                "text": "Read CNN Article",
+                "url": "https://edition.cnn.com/2025/12/16/economy/us-jobs-report-final-november-october"
+            },
+            {
+                "text": "Read Trading Economics Data",
+                "url": "https://tradingeconomics.com/united-states/inflation-cpi"
+            }
+        ],
         "questions": [
             {
                 "question": "The combination of rising inflation and rising unemployment is consistent with which of the following economic concepts?",
@@ -19,7 +29,7 @@
                 "explanation": "Correct. Stagflation is characterized by slow economic growth (or recession) and relatively high unemployment—or economic stagnation—which is at the same time accompanied by rising prices (inflation)."
             },
             {
-                "question": "Which of Trump's economic policies are consistent with the correct answer to the previous question (Stagflation)?",
+                "question": "Which of Trump's economic policies are consistent with the correct answer to the previous question?",
                 "options": [
                     "Import Tariffs",
                     "Massive deportation of immigrants",
