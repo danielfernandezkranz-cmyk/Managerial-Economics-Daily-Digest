@@ -1,5 +1,37 @@
 [
     {
+        "id": "2025-12-18",
+        "date": "2025-12-18",
+        "source": "CNN & Trading Economics",
+        "title": "Stagflation Fears: Rising Inflation Meets Rising Unemployment",
+        "summary": "Recent data reveals a troubling economic mix: unemployment is hitting higher levels while inflation is simultaneously accelerating. This simultaneous rise in both indicators suggests the economy may be entering a period of stagflation, complicating the Federal Reserve's policy path.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://edition.cnn.com/2025/12/16/economy/us-jobs-report-final-november-october",
+        "questions": [
+            {
+                "question": "The combination of rising inflation and rising unemployment is consistent with which of the following economic concepts?",
+                "options": [
+                    "Inflationary gap",
+                    "Recessionary gap",
+                    "Stagflation"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. Stagflation is characterized by slow economic growth (or recession) and relatively high unemployment—or economic stagnation—which is at the same time accompanied by rising prices (inflation)."
+            },
+            {
+                "question": "Which of Trump's economic policies are consistent with the correct answer to the previous question (Stagflation)?",
+                "options": [
+                    "Import Tariffs",
+                    "Massive deportation of immigrants",
+                    "Both",
+                    "None"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. Both policies can shift the Short-Run Aggregate Supply (SRAS) curve to the left. Tariffs increase input costs for businesses, while massive deportations reduce the labor supply. A negative supply shock leads to higher prices (inflation) and lower output/higher unemployment (stagnation)."
+            }
+        ]
+    },
+    {
         "id": "2025-12-17",
         "date": "2025-12-17",
         "source": "Yahoo Finance",

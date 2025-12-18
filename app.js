@@ -7,11 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         newsTitle: document.getElementById('news-title'),
         newsSummary: document.getElementById('news-summary'),
         newsLink: document.getElementById('news-link'),
-        questionText: document.getElementById('question-text'),
-        optionsContainer: document.getElementById('options-container'),
-        feedbackArea: document.getElementById('feedback-area'),
-        feedbackTitle: document.getElementById('feedback-title'),
-        feedbackText: document.getElementById('feedback-text'),
+        quizContent: document.getElementById('quiz-content'),
         archiveBtn: document.getElementById('archive-btn'),
         closeArchive: document.getElementById('close-archive'),
         archiveSidebar: document.getElementById('archive-sidebar'),
@@ -117,48 +113,99 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 3. Render Quiz
     function renderQuiz(item) {
-        elements.questionText.textContent = item.question;
-        elements.optionsContainer.innerHTML = ''; // Clear previous
-        elements.feedbackArea.classList.add('hidden'); // Hide feedback
+        elements.quizContent.innerHTML = ''; // Clear previous
 
-        item.options.forEach((optionText, index) => {
-            const btn = document.createElement('button');
-            btn.className = 'option-btn';
-            btn.textContent = optionText;
+        // Normalize questions to an array: support both new 'questions' array and old single 'question' logic
+        let questionsToRender = [];
 
-            btn.addEventListener('click', () => handleAnswer(index, item, btn));
+        if (item.questions && Array.isArray(item.questions)) {
+            questionsToRender = item.questions;
+        } else if (item.question) {
+            // Backward compatibility for single-question items
+            questionsToRender = [{
+                question: item.question,
+                options: item.options,
+                correctOption: item.correctOption,
+                explanation: item.explanation
+            }];
+        }
 
-            elements.optionsContainer.appendChild(btn);
+        if (questionsToRender.length === 0) {
+            elements.quizContent.innerHTML = '<p>No questions available for this news item.</p>';
+            return;
+        }
+
+        questionsToRender.forEach((q, qIndex) => {
+            const questionBlock = document.createElement('div');
+            questionBlock.className = 'valuable-question-block';
+            questionBlock.style.marginBottom = '2rem';
+
+            // Create unique IDs for this question block's elements to handle independent logic
+            const uniqueId = `q-${qIndex}`;
+
+            const qTitle = document.createElement('p');
+            qTitle.className = 'question-text';
+            qTitle.textContent = q.question;
+            questionBlock.appendChild(qTitle);
+
+            const optionsDiv = document.createElement('div');
+            optionsDiv.className = 'options-container';
+            questionBlock.appendChild(optionsDiv);
+
+            const feedbackDiv = document.createElement('div');
+            feedbackDiv.className = 'feedback-area hidden';
+            feedbackDiv.innerHTML = `
+                <div class="feedback-header">
+                    <span class="feedback-icon"></span>
+                    <h4 class="feedback-title"></h4>
+                </div>
+                <p class="feedback-text"></p>
+            `;
+            questionBlock.appendChild(feedbackDiv);
+
+            // Render Options
+            q.options.forEach((optionText, optIndex) => {
+                const btn = document.createElement('button');
+                btn.className = 'option-btn';
+                btn.textContent = optionText;
+                btn.addEventListener('click', () => handleAnswer(optIndex, q, btn, optionsDiv, feedbackDiv));
+                optionsDiv.appendChild(btn);
+            });
+
+            elements.quizContent.appendChild(questionBlock);
         });
     }
 
     // 4. Handle Quiz Answer
-    function handleAnswer(selectedIndex, item, clickedBtn) {
-        // Disable all buttons to prevent validation spam
-        const allBtns = elements.optionsContainer.querySelectorAll('.option-btn');
+    function handleAnswer(selectedIndex, questionObj, clickedBtn, optionsContainer, feedbackContainer) {
+        // Disable all buttons in THIS question's container
+        const allBtns = optionsContainer.querySelectorAll('.option-btn');
         allBtns.forEach(b => b.disabled = true);
 
         // Check Logic
-        const isCorrect = selectedIndex === item.correctOption;
+        const isCorrect = selectedIndex === questionObj.correctOption;
 
         // Visual State
         if (isCorrect) {
             clickedBtn.classList.add('correct');
-            showFeedback(true, "Correct!", item.explanation);
+            showFeedback(true, "Correct!", questionObj.explanation, feedbackContainer);
         } else {
             clickedBtn.classList.add('incorrect');
             // Highlight the correct one
-            allBtns[item.correctOption].classList.add('correct');
-            showFeedback(false, "Incorrect", item.explanation);
+            allBtns[questionObj.correctOption].classList.add('correct');
+            showFeedback(false, "Incorrect", questionObj.explanation, feedbackContainer);
         }
     }
 
     // 5. Show Feedback
-    function showFeedback(isCorrect, title, text) {
-        elements.feedbackArea.classList.remove('hidden');
-        elements.feedbackTitle.textContent = title;
-        elements.feedbackTitle.style.color = isCorrect ? 'var(--success-color)' : 'var(--error-color)';
-        elements.feedbackText.textContent = text;
+    function showFeedback(isCorrect, title, text, feedbackContainer) {
+        feedbackContainer.classList.remove('hidden');
+        const titleEl = feedbackContainer.querySelector('.feedback-title');
+        const textEl = feedbackContainer.querySelector('.feedback-text');
+
+        titleEl.textContent = title;
+        titleEl.style.color = isCorrect ? 'var(--success-color)' : 'var(--error-color)';
+        textEl.textContent = text;
     }
 
     // 6. Handle Archive Side Panel
