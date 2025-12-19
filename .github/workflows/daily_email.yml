@@ -16,7 +16,7 @@ jobs:
           username: ${{ secrets.GMAIL_USERNAME }}
           password: ${{ secrets.GMAIL_PASSWORD }}
           subject: Managerial Economics Daily Digest - New Update
-          to: peetxeberria@faculty.ie.edu
+          to: daniel.fernandez@ie.edu
           from: Managerial Economics Digest <${{ secrets.GMAIL_USERNAME }}>
           content_type: text/html
           body: |
