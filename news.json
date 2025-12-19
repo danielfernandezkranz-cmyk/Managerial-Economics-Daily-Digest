@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-19",
+        "date": "2025-12-19",
+        "source": "The Hindu",
+        "title": "Rupee Recovers From All-Time Low",
+        "summary": "The Indian Rupee has shown signs of recovery, strengthening by 55 paise against the US dollar after hitting an all-time low. This movement comes amidst suspected central bank intervention and fluctuations in global oil prices.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.thehindu.com/business/markets/rupee-recovers-55-paise-from-all-time-low-level-to-close-at-9038-against-us-dollar/article70407131.ece",
+        "question": "A weak currency (depreciation) typically makes imports more expensive, thereby increasing domestic inflation. To combat this inflation and potentially reverse the depreciation trend, what action is the Central Bank expected to take regarding its Benchmark Interest Rate?",
+        "options": [
+            "Decrease the Benchmark Interest Rate to stimulate borrowing.",
+            "Increase the Benchmark Interest Rate to attract foreign capital and cool demand.",
+            "Keep the Benchmark Interest Rate unchanged to maintain stability."
+        ],
+        "correctOption": 1,
+        "explanation": "Correct. Raising interest rates can help combat inflation by cooling demand. Additionally, higher interest rates attract foreign capital seeking higher returns, which increases demand for the domestic currency, helping to appreciate its value."
+    },
+    {
         "id": "2025-12-18",
         "date": "2025-12-18",
         "source": "CNN & Trading Economics",
