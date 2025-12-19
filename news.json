@@ -4,17 +4,17 @@
         "date": "2025-12-19",
         "source": "The Hindu",
         "title": "Rupee Hits All-Time Low Against Dollar",
-        "summary": "The Indian Rupee has plummeted to a record low against the US dollar. This sharp depreciation raises significant concerns about the economy's vulnerability to external shocks and the potential for imported inflation.",
+        "summary": "The Indian Rupee has plummeted to a record low against the US dollar. This sharp depreciation raises significant concerns about the economy's vulnerability to external shocks.",
         "imageUrl": "assets/images/digest_cover.png",
         "articleUrl": "https://www.thehindu.com/business/markets/rupee-recovers-55-paise-from-all-time-low-level-to-close-at-9038-against-us-dollar/article70407131.ece",
-        "question": "A significant depreciation of the Rupee typically leads to higher import costs, fueling expectations of rising inflation. In response to this combination of weak currency and rising inflation expectations, what is the Central Bank expected to do?",
+        "question": "Consider the economic impact of the Rupee hitting an all-time low. What are the likely implications for domestic inflation and the Central Bank's benchmark interest rate?",
         "options": [
-            "Lower the benchmark interest rate to stimulate growth.",
-            "Raise the benchmark interest rate to curb inflation and support the currency.",
-            "Keep interest rates unchanged to avoid disrupting the market."
+            "Inflation will decrease (cheaper imports), leading the Central Bank to cut interest rates.",
+            "Inflation will increase (expensive imports), likely forcing the Central Bank to raise interest rates.",
+            "Inflation will remain unaffected, allowing the Central Bank to maintain current rates."
         ],
         "correctOption": 1,
-        "explanation": "Correct. A weaker currency increases the cost of imports, leading to higher inflation. To combat this and anchor inflation expectations, Central Banks typically raise interest rates. Higher rates also attract foreign capital, which helps support the currency's value."
+        "explanation": "Correct. A depreciating currency makes imports more expensive, which feeds into higher domestic inflation. To counter this inflationary pressure and support the currency, the Central Bank is expected to tighten monetary policy by raising interest rates."
     },
     {
         "id": "2025-12-18",
