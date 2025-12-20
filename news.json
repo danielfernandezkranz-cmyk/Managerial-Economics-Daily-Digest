@@ -1,5 +1,22 @@
 [
     {
+        "id": "2025-12-20",
+        "date": "2025-12-20",
+        "source": "Investors' Chronicle",
+        "title": "Weaker Dollar Fuels Emerging Market Resurgence",
+        "summary": "A weaker US dollar has driven emerging markets to outperform global indices for the first time since 2020. However, performance is uneven: AI demand has boosted Taiwan and Korea, while India has stumbled due to high valuations and poor earnings.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.investorschronicle.co.uk/content/9af2f15d-d715-468f-91ae-ddb422b3ed16",
+        "question": "The article highlights a divergence in Emerging Market performance: Taiwan and Korea have surged while India has struggled. What is the primary macroeconomic driver cited for Taiwan and Korea's success versus India's underperformance?",
+        "options": [
+            "Taiwan/Korea benefited from AI hardware demand, while India struggled with high valuations and disappointing earnings.",
+            "Taiwan/Korea benefited from lower interest rates, while India struggled with hyperinflation.",
+            "Taiwan/Korea benefited from currency appreciation, while India struggled with a trade embargo."
+        ],
+        "correctOption": 0,
+        "explanation": "Correct. The article attributes the surge in semiconductor-heavy markets like Taiwan and Korea to the global demand for AI hardware. In contrast, India's market has been weighed down by 'disappointing earnings' and 'stretched valuations'."
+    },
+    {
         "id": "2025-12-19",
         "date": "2025-12-19",
         "source": "The Hindu",
