@@ -307,30 +307,62 @@ document.addEventListener('DOMContentLoaded', () => {
         closeSubscribe.addEventListener('click', closeSubscribeModal);
         subscribeOverlay.addEventListener('click', closeSubscribeModal);
 
-        subscribeForm.addEventListener('submit', (e) => {
+        subscribeForm.addEventListener('submit', async (e) => {
             e.preventDefault();
-            const email = document.getElementById('subscriber-email').value;
+            const emailInput = document.getElementById('subscriber-email');
+            const submitBtn = subscribeForm.querySelector('.submit-btn');
+            const originalBtnText = submitBtn.textContent;
 
-            // Construct Mailto Link
-            const subject = encodeURIComponent("Subscribe to Daily Digest");
-            const body = encodeURIComponent(`Please add ${email} to the Managerial Economics Daily Digest subscriber list.`);
-            const mailtoLink = `mailto:daniel.fernandez@ie.edu?subject=${subject}&body=${body}`;
+            // Visual feedback - Loading
+            submitBtn.textContent = "Sending...";
+            submitBtn.disabled = true;
 
-            // Open Mail Client
-            window.location.href = mailtoLink;
+            try {
+                const response = await fetch("https://formspree.io/f/xaqwellp", {
+                    method: "POST",
+                    body: JSON.stringify({
+                        email: emailInput.value,
+                        message: "Please add me to the Managerial Economics Daily Digest subscriber list."
+                    }),
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    }
+                });
 
-            // UI Feedback
-            const btn = subscribeForm.querySelector('.submit-btn');
-            const originalText = btn.textContent;
-            btn.textContent = "Request Sent!";
-            btn.style.background = "var(--success-color)";
+                if (response.ok) {
+                    // Success
+                    submitBtn.textContent = "Request Sent!";
+                    submitBtn.style.background = "var(--success-color)";
+                    emailInput.value = ""; // Clear input
 
-            setTimeout(() => {
-                closeSubscribeModal();
-                btn.textContent = originalText;
-                btn.style.background = "";
-                subscribeForm.reset();
-            }, 2000);
+                    setTimeout(() => {
+                        closeSubscribeModal();
+                        // Reset button state after closing
+                        setTimeout(() => {
+                            submitBtn.textContent = originalBtnText;
+                            submitBtn.style.background = "";
+                            submitBtn.disabled = false;
+                        }, 500);
+                    }, 2000);
+                } else {
+                    // Formspree error
+                    const data = await response.json();
+                    console.error("Formspree error:", data);
+                    throw new Error("Submission failed");
+                }
+            } catch (error) {
+                // Network error
+                console.error("Error submitting form:", error);
+                submitBtn.textContent = "Error. Please try again.";
+                submitBtn.style.background = "var(--error-color)";
+
+                setTimeout(() => {
+                    submitBtn.textContent = originalBtnText;
+                    submitBtn.style.background = "";
+                    submitBtn.disabled = false;
+                }, 3000);
+            }
         });
     }
 
