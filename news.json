@@ -2,19 +2,33 @@
     {
         "id": "2025-12-20",
         "date": "2025-12-20",
-        "source": "Investors' Chronicle",
-        "title": "Weaker Dollar Fuels Emerging Market Resurgence",
-        "summary": "A weaker US dollar has driven emerging markets to outperform global indices for the first time since 2020. However, performance is uneven: AI demand has boosted Taiwan and Korea, while India has stumbled due to high valuations and poor earnings.",
+        "source": "AllianceBernstein",
+        "title": "How US Dollar Weakness Could Buoy Emerging Markets",
+        "summary": "Emerging-market assets have benefitted from a softer dollar, which could remain weak for a while.",
         "imageUrl": "assets/images/digest_cover.png",
-        "articleUrl": "https://www.investorschronicle.co.uk/content/9af2f15d-d715-468f-91ae-ddb422b3ed16",
-        "question": "The article highlights a divergence in Emerging Market performance: Taiwan and Korea have surged while India has struggled. What is the primary macroeconomic driver cited for Taiwan and Korea's success versus India's underperformance?",
-        "options": [
-            "Taiwan/Korea benefited from AI hardware demand, while India struggled with high valuations and disappointing earnings.",
-            "Taiwan/Korea benefited from lower interest rates, while India struggled with hyperinflation.",
-            "Taiwan/Korea benefited from currency appreciation, while India struggled with a trade embargo."
-        ],
-        "correctOption": 0,
-        "explanation": "Correct. The article attributes the surge in semiconductor-heavy markets like Taiwan and Korea to the global demand for AI hardware. In contrast, India's market has been weighed down by 'disappointing earnings' and 'stretched valuations'."
+        "articleUrl": "https://www.alliancebernstein.com/corporate/en/insights/investment-insights/how-us-dollar-weakness-could-buoy-emerging-markets.html",
+        "questions": [
+            {
+                "question": "The article identifies six forces weighing on the US dollar. Which of the following groups of factors are among those cited?",
+                "options": [
+                    "Widening interest rate differentials, increased central bank buying of USD, and low US deficits.",
+                    "Narrowing interest rate differentials, central bank diversification away from USD, and high US deficits.",
+                    "Superior US economic growth compared to the rest of the world and low foreign ownership of US assets."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article cites narrowing interest rate differentials (as the Fed eases), central banks diversifying reserves away from the dollar, and growing US deficits as key forces weighing on the currency."
+            },
+            {
+                "question": "According to the article, why does a weaker US Dollar specifically benefit Emerging Market (EM) assets?",
+                "options": [
+                    "It attracts capital inflows seeking higher returns and reduces debt-servicing costs for USD-denominated debt.",
+                    "It decreases the global price of commodities, which benefits EM commodity importers.",
+                    "It forces EM central banks to raise interest rates, which stabilizes their currencies."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. A weaker dollar makes EM assets more attractive to investors (inflows), reduces the burden of paying back USD loans (debt service), and typically boosts commodity prices."
+            }
+        ]
     },
     {
         "id": "2025-12-19",
