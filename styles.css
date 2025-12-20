@@ -407,37 +407,6 @@ footer {
     margin-top: auto;
 }
 
-/* Animations */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(10px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Media Queries */
-@media (max-width: 768px) {
-    .header-content {
-        flex-direction: column;
-        gap: 15px;
-        text-align: center;
-    }
-
-    .news-title {
-        font-size: 1.5rem;
-    }
-
-    .archive-sidebar {
-        width: 100%;
-        right: -100%;
-    }
-}
-
 /* Subscribe Feature */
 .subscribe-btn {
     background: var(--primary-color);
@@ -459,7 +428,8 @@ footer {
     box-shadow: 0 4px 12px rgba(10, 35, 66, 0.2);
 }
 
-.subscribe-modal {
+/* Use ID for higher specificity and robustness */
+#subscribe-modal {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -470,32 +440,35 @@ footer {
     padding: 2.5rem;
     border-radius: 8px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-    z-index: 1000;
+    z-index: 2000;
+    /* Increased z-index */
+
+    /* State controls */
     opacity: 0;
     visibility: hidden;
     transition: all 0.3s ease;
 }
 
-.subscribe-modal.active {
+#subscribe-modal.active {
     opacity: 1;
     visibility: visible;
     transform: translate(-50%, -50%) scale(1);
 }
 
-.subscribe-overlay {
+#subscribe-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
-    z-index: 900;
+    z-index: 1900;
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.3s;
 }
 
-.subscribe-overlay.active {
+#subscribe-overlay.active {
     opacity: 1;
     pointer-events: auto;
 }
@@ -559,4 +532,35 @@ footer {
     text-align: center;
     font-style: italic;
     color: #888;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .news-title {
+        font-size: 1.5rem;
+    }
+
+    .archive-sidebar {
+        width: 100%;
+        right: -100%;
+    }
 }
