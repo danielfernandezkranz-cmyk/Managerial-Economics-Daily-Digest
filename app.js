@@ -285,6 +285,55 @@ document.addEventListener('DOMContentLoaded', () => {
     elements.closeArchive.addEventListener('click', closeSidebar);
     elements.archiveOverlay.addEventListener('click', closeSidebar);
 
+    // --- Subscribe Feature Logic ---
+    const subscribeBtn = document.getElementById('subscribe-btn');
+    const subscribeModal = document.getElementById('subscribe-modal');
+    const subscribeOverlay = document.getElementById('subscribe-overlay');
+    const closeSubscribe = document.getElementById('close-subscribe');
+    const subscribeForm = document.getElementById('subscribe-form');
+
+    function openSubscribe() {
+        subscribeModal.classList.add('active');
+        subscribeOverlay.classList.add('active');
+    }
+
+    function closeSubscribeModal() {
+        subscribeModal.classList.remove('active');
+        subscribeOverlay.classList.remove('active');
+    }
+
+    if (subscribeBtn) {
+        subscribeBtn.addEventListener('click', openSubscribe);
+        closeSubscribe.addEventListener('click', closeSubscribeModal);
+        subscribeOverlay.addEventListener('click', closeSubscribeModal);
+
+        subscribeForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const email = document.getElementById('subscriber-email').value;
+
+            // Construct Mailto Link
+            const subject = encodeURIComponent("Subscribe to Daily Digest");
+            const body = encodeURIComponent(`Please add ${email} to the Managerial Economics Daily Digest subscriber list.`);
+            const mailtoLink = `mailto:daniel.fernandez@ie.edu?subject=${subject}&body=${body}`;
+
+            // Open Mail Client
+            window.location.href = mailtoLink;
+
+            // UI Feedback
+            const btn = subscribeForm.querySelector('.submit-btn');
+            const originalText = btn.textContent;
+            btn.textContent = "Request Sent!";
+            btn.style.background = "var(--success-color)";
+
+            setTimeout(() => {
+                closeSubscribeModal();
+                btn.textContent = originalText;
+                btn.style.background = "";
+                subscribeForm.reset();
+            }, 2000);
+        });
+    }
+
     // Run
     init();
 });

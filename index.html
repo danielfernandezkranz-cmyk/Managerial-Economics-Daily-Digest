@@ -30,6 +30,15 @@
                 </svg>
                 Past Digests
             </button>
+
+            <button id="subscribe-btn" class="subscribe-btn" aria-label="Subscribe">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                    <polyline points="22,6 12,13 2,6"></polyline>
+                </svg>
+                Subscribe
+            </button>
         </div>
     </header>
 
@@ -76,6 +85,23 @@
         </div>
     </div>
     <div id="archive-overlay" class="archive-overlay"></div>
+
+    <!-- Subscribe Modal -->
+    <div id="subscribe-modal" class="subscribe-modal">
+        <div class="subscribe-content">
+            <div class="subscribe-header">
+                <h2>Subscribe to Daily Digest</h2>
+                <button id="close-subscribe" class="close-btn">&times;</button>
+            </div>
+            <p>Get the latest Managerial Economics news delivered to your inbox every morning.</p>
+            <form id="subscribe-form" class="subscribe-form">
+                <input type="email" id="subscriber-email" placeholder="Your email address" required>
+                <button type="submit" class="submit-btn">Request Subscription</button>
+            </form>
+            <p class="subscribe-note">This will send a request to the admin to add needed permissions.</p>
+        </div>
+    </div>
+    <div id="subscribe-overlay" class="subscribe-overlay"></div>
 
     <footer class="site-footer">
         <div class="container">
