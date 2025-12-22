@@ -1,5 +1,48 @@
 [
     {
+        "id": "2025-12-22",
+        "date": "2025-12-22",
+        "source": "Realtor.com & Independent",
+        "title": "New York City Rent Freeze Block",
+        "summary": "Rent control at the center of political debate with newly elected NYC mayor, Mamdani.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.realtor.com/news/trends/eric-adams-zohran-mamdani-new-york-city-rent-freeze-block/",
+        "articleLinks": [
+            {
+                "text": "Read Realtor.com Article",
+                "url": "https://www.realtor.com/news/trends/eric-adams-zohran-mamdani-new-york-city-rent-freeze-block/"
+            },
+            {
+                "text": "Read Independent Article",
+                "url": "https://www.independent.org/article/2025/12/02/rent-control-a-policy-recipe-for-shortages-and-decay/"
+            }
+        ],
+        "questions": [
+            {
+                "question": "According to standard economic theory rent control is a price celiling. When are price ceilings most likely to be harmful to consumers (renters in this case)?",
+                "options": [
+                    "When housing supply is inelastic",
+                    "When housing supply is elastic",
+                    "Never, they always benefit renters",
+                    "Always, they always hurt renters"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Price ceilings cause shortages (quantity demanded exceeds quantity supplied). This shortage is larger (more harmful) when supply is elastic because landlords have more flexibility to reduce the quantity of housing supplied (e.g., by converting to condos, stopping maintenance, or not building new units) in response to lower rents."
+            },
+            {
+                "question": "According to one of the articles, what is evidence of a relatively elastic housing supply?",
+                "options": [
+                    "Decreased maintenance of existing units",
+                    "Disinvestment and capital flight away from new construction",
+                    "Conversion of rentals into non rental units such as commercial, luxury condos, etc.",
+                    "All of the above"
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. All of these actions represent ways in which housing suppliers (landlords/developers) reduce the quantity of rental housing supplied in response to price controls, demonstrating elasticity of supply."
+            }
+        ]
+    },
+    {
         "id": "2025-12-20",
         "date": "2025-12-20",
         "source": "AllianceBernstein",
