@@ -1,5 +1,27 @@
 [
     {
+        "id": "2025-12-26",
+        "date": "2025-12-26",
+        "source": "CNN",
+        "title": "Why so many Americans dislike this fast-growing economy",
+        "summary": "Recent economic reports indicate the US economy is expanding rapidly, with GDP growth accelerating. However, public sentiment does not mirror this positivity, creating a puzzle for economists. The article explores the underlying dynamics of consumer spending and price levels that explain why the headline growth figures don't match the mood of many Americans.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://edition.cnn.com/2025/12/24/economy/us-economy-affordability-gdp",
+        "questions": [
+            {
+                "question": "The article describes a scenario where robust aggregate GDP growth coexists with financial strain for a significant portion of the population. Which major limitation of GDP as a welfare measure does this specific situation illustrate?",
+                "options": [
+                    "GDP excludes the value of leisure time.",
+                    "GDP ignores the depletion of natural resources and environmental degradation.",
+                    "GDP does not account for the distribution of income or how the gains from growth are shared.",
+                    "GDP fails to measure the underground economy."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The article describes a 'K-shaped' economy where gains accrue disproportionately to the wealthy (who own assets), while others are left behind. GDP adds up total production/income but has no mechanism to report on inequality or how evenly that pie is divided."
+            }
+        ]
+    },
+    {
         "id": "2025-12-22",
         "date": "2025-12-22",
         "source": "Realtor.com & Independent",
