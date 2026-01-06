@@ -1,5 +1,27 @@
 [
     {
+        "id": "2026-01-06",
+        "date": "2026-01-06",
+        "source": "The Economist",
+        "title": "America's economy looks set to accelerate",
+        "summary": "The US economy is expected to accelerate in 2026, driven by a combination of loose monetary policy and expansionary fiscal policy. However, this dual stimulus carries significant risks.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/2025/12/30/americas-economy-looks-set-to-accelerate",
+        "questions": [
+            {
+                "question": "What, according to the article, is the risk of monetary+fiscal stimulus as it is expected for the US economy in 2026?",
+                "options": [
+                    "Higher inflation",
+                    "Higher yields of US government bonds",
+                    "Higher real interest rates",
+                    "All of the above"
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. Simultaneous monetary and fiscal stimulus risks overheating the economy, leading to higher inflation. This, in turn, pushes up nominal bond yields. If the central bank eventually has to hike rates to combat this, or if inflation expectations become unanchored, real interest rates may also rise."
+            }
+        ]
+    },
+    {
         "id": "2025-12-26",
         "date": "2025-12-26",
         "source": "CNN",
