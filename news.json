@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-01-08",
+        "date": "2026-01-08",
+        "source": "NPR Planet Money",
+        "title": "Venezuela’s Recent Economic History (Update): Hyperinflation and Dollarization",
+        "summary": "This Planet Money episode traces Venezuela's economic collapse, from the oil boom that killed domestic industry to the 'economic time bomb' of fixed exchange rates. It explores how hyperinflation destroyed the currency and how the informal adoption of the US dollar has recently stabilized the economy.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.npr.org/2026/01/04/nx-s1-5666322/venezuela-hyperinflation-maduro-gonzalez",
+        "questions": [
+            {
+                "question": "The transcript describes how Venezuela's oil boom led to a situation where it was cheaper to import everything (shoes, milk, cheese) than to produce it domestically. What economic phenomenon does this illustrate, where a booming natural resource sector harms other sectors of the economy?",
+                "options": [
+                    "Comparative Advantage",
+                    "The Dutch Disease",
+                    "Economies of Scale",
+                    "Import Substitution"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The Dutch Disease occurs when a resource boom (like oil) strengthens the currency, making other exports more expensive and imports cheaper, effectively deindustrializing the rest of the economy."
+            },
+            {
+                "question": "In 2003, seeking to preserve foreign currency, Hugo Chavez implemented strict exchange rate controls, fixing the value of the bolívar. What is the inevitable consequence of a government fixing a price (in this case, of the dollar) below the market equilibrium level?",
+                "options": [
+                    "A surplus of dollars",
+                    "A shortage of dollars and the emergence of a black market",
+                    "Increased foreign investment",
+                    "Deflation"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. When a price is fixed below equilibrium (a price ceiling), quantity demanded exceeds quantity supplied, creating a shortage. This naturally leads to a black market where the good trades at its true, much higher, price."
+            },
+            {
+                "question": "The transcript mentions a scam called 'The Scratch' (El Raspadito), where people bought plane tickets to New York solely to access government-subsidized dollars, without actually traveling. This is a classic example of what economic activity?",
+                "options": [
+                    "Arbitrage",
+                    "Hedging",
+                    "Speculation",
+                    "Quantitative Easing"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Arbitrage involves exploiting price differences for the same asset in different markets. Venezuelans bought dollars at the cheap official rate and could sell them at the much higher black market rate, making a risk-free profit."
+            },
+            {
+                "question": "When inflation soared, the Venezuelan government responded by mandating price controls (limiting how much profit businesses could make). According to the transcript, how did businesses like the clothing importer react to this?",
+                "options": [
+                    "They increased production to make up for lower margins.",
+                    "They stopped importing and producing because they were losing money on every sale.",
+                    "They invested in new technology to lower costs.",
+                    "They hired more workers to meet increased demand."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Price controls that force businesses to sell below cost destroy the incentive to produce. As the transcript notes, businesses simply 'froze' or shut down, leading to massive shortages of even essential goods like medical supplies."
+            },
+            {
+                "question": "By 2024, the Venezuelan economy had stabilized somewhat. According to the transcript, what was the 'single greatest factor' driving this stabilization?",
+                "options": [
+                    "A massive increase in oil prices",
+                    "A bailout from the IMF",
+                    "The informal adoption of the US Dollar (dollarization) for daily transactions",
+                    "Strict new government austerity measures"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The transcript states that the US dollar's informal takeover allowed people to plan for the future again and trade effectively, bypassing the worthless bolívar and stabilizing the economy."
+            }
+        ]
+    },
+    {
         "id": "2026-01-06",
         "date": "2026-01-06",
         "source": "The Economist",
