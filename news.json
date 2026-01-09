@@ -1,5 +1,46 @@
 [
     {
+        "id": "2026-01-09",
+        "date": "2026-01-09",
+        "source": "Brookings",
+        "title": "Janet Yellen on Central Bank Independence and the Risks of Fiscal Dominance",
+        "summary": "Former Fed Chair Janet Yellen discusses the critical importance of Federal Reserve independence and warns against 'fiscal dominance'—a scenario where the central bank is forced to subordinate its monetary policy goals to the government's financing needs.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.brookings.edu/articles/remarks-by-janet-l-yellen-on-the-future-of-the-fed-central-bank-independence-and-fiscal-dominance/",
+        "questions": [
+            {
+                "question": "What is 'Fiscal Dominance' as defined by Janet Yellen in her remarks?",
+                "options": [
+                    "A situation where the Federal Reserve dictates tax policy to Congress.",
+                    "A scenario where the government's high debt and financing needs pressure the central bank to keep interest rates artificially low, subordinating monetary policy to fiscal needs.",
+                    "When the government runs a budget surplus to pay down national debt."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Fiscal dominance occurs when the central bank is forced to focus on helping the government service its debt (by keeping rates low or printing money) rather than on its primary goals of controlling inflation and ensuring full employment."
+            },
+            {
+                "question": "Janet Yellen mentions the 'Fiscal Theory of the Price Level'. What does this theory posit?",
+                "options": [
+                    "That inflation is solely a monetary phenomenon caused by printing too much money.",
+                    "That the price level is determined by the government's intertemporal budget constraint; if markets doubt the government can pay its debt with future surpluses, inflation rises to erode the debt's real value.",
+                    "That prices are set by greedy corporations raising profit margins."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. This theory suggests that if the government's fiscal path is unsustainable and markets don't expect future surpluses to cover the debt, the adjustment happens via inflation (or default), as the price level rises to bring the real value of debt in line with what the government can actually pay."
+            },
+            {
+                "question": "Why is fiscal dominance considered dangerous for the economy?",
+                "options": [
+                    "It typically leads to higher and more volatile inflation and can unanchor inflation expectations.",
+                    "It causes deflation and a collapse in asset prices.",
+                    "It forces the government to cut spending on essential services immediately."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Yellen argues that if the central bank cannot raise rates to fight inflation because of debt service concerns, households and businesses will lose faith in the currency, leading to unanchored inflation expectations and potentially higher, more volatile inflation."
+            }
+        ]
+    },
+    {
         "id": "2026-01-08",
         "date": "2026-01-08",
         "source": "NPR Planet Money",
