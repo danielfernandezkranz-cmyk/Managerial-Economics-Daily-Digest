@@ -9,17 +9,6 @@
         "articleUrl": "https://www.moodyonthemarket.com/could-venezuelan-oil-bring-down-us-gas-prices-experts-weigh-in/",
         "questions": [
             {
-                "question": "The article states that despite a potential small supply increase, prices might not drop significantly because 'demand for fossil fuels' has been constricted by slow global growth. Which concept explains why price drops are limited when the demand curve shifts left (weak demand)?",
-                "options": [
-                    "Price Elasticity of Demand",
-                    "Price Elasticity of Supply",
-                    "Income Elasticity of Demand",
-                    "Cross-Price Elasticity"
-                ],
-                "correctOption": 0,
-                "explanation": "Correct. Price elasticity of demand measures how quantity demanded responds to price changes. When demand is weak and relatively inelastic (as implies for essential goods in the short run), simply adding supply doesn't always crash prices if buyers aren't there or are unresponsive."
-            },
-            {
                 "question": "One expert notes that 'prices are set on the margin and small imbalances in volume can lead to large shifts in prices.' This high sensitivity of price to quantity changes characterizes a market with:",
                 "options": [
                     "Perfectly elastic supply and demand",
