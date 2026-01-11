@@ -1,5 +1,49 @@
 [
     {
+        "id": "2026-01-11",
+        "date": "2026-01-11",
+        "source": "Moody on the Market / ABC News",
+        "title": "Could Venezuelan Oil Bring Down US Gas Prices?",
+        "summary": "Experts weigh in on whether accessing Venezuela's massive oil reserves could lower US gas prices. While short-term impacts may be minimal due to global oversupply and infrastructure issues, long-term investments could significantly boost supply.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.moodyonthemarket.com/could-venezuelan-oil-bring-down-us-gas-prices-experts-weigh-in/",
+        "questions": [
+            {
+                "question": "The article states that despite a potential small supply increase, prices might not drop significantly because 'demand for fossil fuels' has been constricted by slow global growth. Which concept explains why price drops are limited when the demand curve shifts left (weak demand)?",
+                "options": [
+                    "Price Elasticity of Demand",
+                    "Price Elasticity of Supply",
+                    "Income Elasticity of Demand",
+                    "Cross-Price Elasticity"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Price elasticity of demand measures how quantity demanded responds to price changes. When demand is weak and relatively inelastic (as implies for essential goods in the short run), simply adding supply doesn't always crash prices if buyers aren't there or are unresponsive."
+            },
+            {
+                "question": "One expert notes that 'prices are set on the margin and small imbalances in volume can lead to large shifts in prices.' This high sensitivity of price to quantity changes characterizes a market with:",
+                "options": [
+                    "Perfectly elastic supply and demand",
+                    "Relatively inelastic supply and demand",
+                    "Unit elastic supply and demand",
+                    "Infinite elasticity"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. In markets like oil, where both supply and demand are relatively inelastic in the short run (hard to ramp up production quickly, hard to change consumption habits quickly), small shifts in quantity (shortages or gluts) cause large swings in price."
+            },
+            {
+                "question": "The text explains that immediate Venezuelan output is low due to 'lackluster infrastructure,' but long-term investment could increase it substantially. What does this illustrate about the Price Elasticity of Supply for oil?",
+                "options": [
+                    "Supply is more elastic in the long run than in the short run.",
+                    "Supply is more elastic in the short run than in the long run.",
+                    "Supply elasticity is constant over time.",
+                    "Supply is perfectly inelastic always."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. In the short run, supply is inelastic (hard to change) because of physical constraints like broken infrastructure. In the long run, firms can build new rigs and repair pipelines, making supply more elastic (responsive to price/investment)."
+            }
+        ]
+    },
+    {
         "id": "2026-01-09",
         "date": "2026-01-09",
         "source": "Brookings",
