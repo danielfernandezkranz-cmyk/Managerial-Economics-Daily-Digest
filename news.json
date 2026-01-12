@@ -1,5 +1,38 @@
 [
     {
+        "id": "2026-01-12",
+        "date": "2026-01-12",
+        "source": "Reuters",
+        "title": "Oil climbs as intensifying unrest in Iran sparks supply concerns",
+        "summary": "Oil prices have surged as intensifying unrest in Iran raises fears of a supply disruption. Market analysts estimate that approximately 1.9 million barrels per day of crude oil could be at risk, representing a significant shock to the global market which currently supplies around 105 million barrels per day.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.reuters.com/business/energy/oil-climbs-intensifying-unrest-iran-spark-supply-concerns-2026-01-12/",
+        "questions": [
+            {
+                "question": "Considering the amount of oil that according to the article can be disrupted (approx 1.9m bpd) and considering that the total supply of oil worldwide is approximately 105 million barrels per day, what would be the short-term impact in the price of oil if the price-elasticity of oil demand is -0.06?",
+                "options": [
+                    "An increase of roughly 30%",
+                    "An increase of roughly 3%",
+                    "A decrease of roughly 30%",
+                    "An increase of roughly 10%"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Percentage Change in Quantity = -1.9 / 105 ≈ -1.81%. Price Elasticity of Demand (-0.06) = % Change in Q / % Change in P. Therefore, % Change in P = -1.81% / -0.06 ≈ 30.16%."
+            },
+            {
+                "question": "Using the same figures as the previous question (1.9m bpd disruption, 105m bpd total supply), what would be the impact in the price of oil if the price-elasticity of the demand for oil was -1.5 instead?",
+                "options": [
+                    "An increase of roughly 1.2%",
+                    "An increase of roughly 12%",
+                    "An increase of roughly 30%",
+                    "A decrease of roughly 1.5%"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Percentage Change in Quantity = -1.9 / 105 ≈ -1.81%. With a more elastic demand of -1.5: % Change in P = -1.81% / -1.5 ≈ 1.2%. This illustrates how more elastic demand dampens price shocks."
+            }
+        ]
+    },
+    {
         "id": "2026-01-11",
         "date": "2026-01-11",
         "source": "Moody on the Market / ABC News",
