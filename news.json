@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-01-13",
+        "date": "2026-01-13",
+        "source": "The Trump Report / Justin Wolfers Interview",
+        "title": "The Risks of Politicizing the Federal Reserve",
+        "summary": "In this interview, Professor Justin Wolfers discusses the administration's investigation into Fed Chair Jerome Powell. He warns that undermining central bank independence moves the US toward 'fiscal dominance,' where monetary policy is prioritized for debt servicing rather than controlling inflation.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.youtube.com/watch?v=AoE-p5CL8ro",
+        "questions": [
+            {
+                "question": "According to the interview, what are the standard dual mandate goals that the Federal Reserve is supposed to target?",
+                "options": [
+                    "High stock market returns and low taxes.",
+                    "Low unemployment and low inflation.",
+                    "A strong US dollar and a trade surplus.",
+                    "Zero government debt and balanced budgets."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Wolfers states, 'Normally, what we do is we ask the Fed to set interest rates so that we can create low unemployment and low inflation.' This is the standard dual mandate."
+            },
+            {
+                "question": "The interviewee argues that undermining the independence of the Federal Reserve jeopardizes monetary policy primarily through which channel?",
+                "options": [
+                    "It causes an immediate shortage of cash in the banking system.",
+                    "It unanchors inflation expectations; if people believe decisions are political, they expect higher inflation, which causes actual inflation.",
+                    "It prevents the government from borrowing money entirely.",
+                    "It forces the Fed to print physical currency faster than the mint can handle."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Wolfers explains that 'the mere expectation of inflation can create inflation.' If the Fed is seen as politically motivated (not fighting inflation), people expect higher prices and raise their own prices accordingly."
+            },
+            {
+                "question": "How is 'Fiscal Dominance' defined in the video?",
+                "options": [
+                    "A situation where the Federal Reserve dictates the government's tax policy.",
+                    "A scenario where the fiscal authority (government) reduces debt to help the central bank.",
+                    "A scenario where monetary policy is dictated by the government's need to service its debt (keep interest costs low) rather than by inflation or unemployment goals.",
+                    "When the stock market dominates the economy."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. Wolfers defines it as: 'It's the fiscal side which is government debt that dictates what we do on monetary policy... if interest rates are being set to reducing our nation's credit card bill then they're not being set to keep inflation low.'"
+            },
+            {
+                "question": "According to the transcript, why might an administration under 'fiscal dominance' pressure the Fed to keep interest rates artificially low?",
+                "options": [
+                    "To encourage consumers to save more money.",
+                    "To strengthen the currency against foreign rivals.",
+                    "To reduce the interest payments on the massive national debt, freeing up money for other spending or tax cuts.",
+                    "To intentionally cause deflation."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The motivation mentioned is: 'If we could just keep interest rates artificially low, then we won't have to pay much interest on that debt, and then I've got lots of money to send out checks to people.'"
+            },
+            {
+                "question": "The interview warns that while the President might force the Fed to lower *short-term* rates, this could backfire and lead to higher *long-term* rates. Why?",
+                "options": [
+                    "Because long-term rates are set by the President directly.",
+                    "Because if markets expect high inflation due to inappropriate short-term easing, they will demand higher yields on long-term bonds to compensate for that risk.",
+                    "Because short-term and long-term rates always move in opposite directions.",
+                    "Because the Fed stops issuing long-term bonds."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Wolfers explains: 'The bond market sets long-term rates and it sets it based on expectations... If you have interest rates that are much lower than conditions warrant that causes inflation... That in itself is enough to raise long-term interest rates.'"
+            }
+        ]
+    },
+    {
         "id": "2026-01-12",
         "date": "2026-01-12",
         "source": "Reuters",
