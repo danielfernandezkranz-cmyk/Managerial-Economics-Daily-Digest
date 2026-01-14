@@ -1,5 +1,49 @@
 [
     {
+        "id": "2026-01-14",
+        "date": "2026-01-14",
+        "source": "Financial Times",
+        "title": "Yen tumbles and Japan stocks soar as election talk reignites ‘Takaichi trade’",
+        "summary": "Speculation that Prime Minister Sanae Takaichi will call a snap election has reignited the 'Takaichi trade,' boosting stocks on hopes of massive fiscal stimulus. However, her proposed $135bn spending plan has 'spooked bond markets,' driving Japanese government bond yields to their highest levels since 1999.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.ft.com/content/54a3eca2-33cf-474c-ba87-098489a8eee2",
+        "questions": [
+            {
+                "question": "PM Takaichi proposes a massive $135bn fiscal stimulus package. Assuming this is financed by debt, how does this policy action primarily affect the market for Government Bonds?",
+                "options": [
+                    "It decreases the supply of bonds (shift left).",
+                    "It increases the supply of bonds (shift right).",
+                    "It increases the demand for bonds (shift right).",
+                    "It decreases the demand for bonds (shift left)."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. To finance a deficit (spending > tax revenue), the government must borrow money. It does this by issuing (selling) more bonds, which represents an increase in the Supply of bonds in the market."
+            },
+            {
+                "question": "Other things equal, what is the immediate impact of this large increase in the supply of government bonds on the *price* of those bonds?",
+                "options": [
+                    "The price of bonds will increase.",
+                    "The price of bonds will decrease.",
+                    "The price of bonds will remain unchanged.",
+                    "The price will become negative."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Just like any market, if Supply increases (shifts right) while Demand remains stable, the equilibrium price falls. To find buyers for all this new debt, the government must offer it at a lower price."
+            },
+            {
+                "question": "The article reports that the 10-year bond *yield* climbed to 2.16%, its highest since 1999. How is this rising yield mathematically linked to the falling bond prices identified in the previous question?",
+                "options": [
+                    "Bond prices and yields are unrelated.",
+                    "Bond prices and yields move in the same direction (Positive Correlation).",
+                    "Bond prices and yields move in opposite directions (Inverse Relationship).",
+                    "Yields only depend on the central bank's base rate."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The yield is effectively the return on the bond. Since the coupon payment (interest) is fixed, buying the bond at a lower price means you get a higher percentage return (yield) on your investment. Mathematically, Yield ≈ Coupon / Price. As Price goes down, Yield goes up."
+            }
+        ]
+    },
+    {
         "id": "2026-01-13",
         "date": "2026-01-13",
         "source": "The Trump Report / Justin Wolfers Interview",
