@@ -1,5 +1,49 @@
 [
     {
+        "id": "2026-01-15",
+        "date": "2026-01-15",
+        "source": "BBC News",
+        "title": "Which countries do business with Iran and what could new US tariffs mean?",
+        "summary": "President Trump has announced a 25% tariff on any country doing business with Iran, a move targeting major partners like China, Iraq, the UAE, and Turkey. This policy aims to economically isolate Iran following its crackdown on protests, but economists warn it could reignite trade wars and impact global prices.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.bbc.com/news/articles/cwynx4rerpzo",
+        "questions": [
+            {
+                "question": "The new US tariffs aim to reduce international demand for Iranian exports. How will a significant reduction in foreign demand for Iranian goods likely affect the value of the Iranian Rial (Iran's currency) in foreign exchange markets?",
+                "options": [
+                    "It will cause the Rial to appreciate (gain value relative to the dollar).",
+                    "It will cause the Rial to depreciate (lose value relative to the dollar).",
+                    "It will have no effect on the exchange rate.",
+                    "It will fix the exchange rate at a constant level."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. If fewer countries buy Iranian goods, the demand for the Iranian Rial (needed to pay for those goods) decreases. A decrease in demand for a currency leads to a depreciation of its value."
+            },
+            {
+                "question": "If the Iranian Rial depreciates significantly as a result of these sanctions, what is the expected impact on domestic inflation in Iran and, subsequently, on public sentiment?",
+                "options": [
+                    "Inflation will fall, making goods cheaper and making the public happier.",
+                    "Inflation will rise (as imports become more expensive), likely fueling further economic hardship and political unrest.",
+                    "Inflation will remain constant, having no impact on sentiment.",
+                    "Deflation will occur, increasing the purchasing power of citizens."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A weaker currency makes imported goods (like food, medicine, and tech) more expensive. This 'imported inflation' raises the general cost of living, eroding purchasing power and often exacerbating social and political turmoil."
+            },
+            {
+                "question": "The tariffs also apply to goods entering the US from countries that trade with Iran (like China). How would a broad 25% tariff on imports from major trading partners affect the US Price Level?",
+                "options": [
+                    "It would decrease the US Price Level by increasing domestic competition.",
+                    "It would increase the US Price Level (Cost-Push Inflation) as the cost of imported inputs and finished goods rises.",
+                    "It would have no effect on the Price Level.",
+                    "It would increase Real GDP without affecting prices."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Tariffs act as a tax on imports, raising the cost of production for US firms that use imported materials and the price of consumer goods. This negative supply shock shifts the Short-Run Aggregate Supply (SRAS) curve to the left, leading to a higher aggregate price level."
+            }
+        ]
+    },
+    {
         "id": "2026-01-14",
         "date": "2026-01-14",
         "source": "Financial Times",
