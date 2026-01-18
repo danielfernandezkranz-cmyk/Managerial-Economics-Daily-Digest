@@ -1,5 +1,37 @@
 [
     {
+        "id": "2026-01-18",
+        "date": "2026-01-18",
+        "source": "Reuters",
+        "title": "World markets face fresh jolt: Trump vows tariffs on Europe over Greenland",
+        "summary": "President Trump has vowed to impose tariffs on European countries with a military presence in Greenland, delivering a fresh jolt to world markets. The announcement has sparked concerns about a potential trade war and debates over the economic implications of retaliatory measures.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.reuters.com/world/europe/world-markets-face-fresh-jolt-trump-vows-tariffs-europe-over-greenland-2026-01-18/",
+        "questions": [
+            {
+                "question": "President Trump argues that these tariffs will penalize European nations. However, standard economic analysis suggests that if the US imposes tariffs on European goods, who bears the primary burden in the US in the short run?",
+                "options": [
+                    "European governments, who must pay the tax directly to the US Treasury.",
+                    "US Consumers, who face higher prices for imported goods, and US producers using imported inputs.",
+                    "The World Trade Organization, which subsidizes the difference.",
+                    "No one, as tariffs create value out of thin air."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. While the legal incidence of a tariff falls on the importer, the economic incidence (who actually pays) is shared. Typically, tariffs raise the domestic price of the imported good, effectively transferring money from domestic consumers (in higher prices) to the government (revenue) and domestic producers (protection)."
+            },
+            {
+                "question": "According to the theory of comparative advantage, if the EU retaliates against the US threat of imposing tariffs to European countries with military presence in Greenland:",
+                "options": [
+                    "This is smart retaliation imposing harm on US exporters while benefiting the European economies.",
+                    "This is not so smart retaliation since it means to shoot oneself in the foot due to the harm to European consumers.",
+                    "This is smart retaliation since the gain to European importers will be larger than the loss to European consumers."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Comparative advantage suggests that free trade benefits both parties by allowing them to specialize. Retaliatory tariffs might hurt the US exporter, but they also introduce distortions in the European economy, raising prices for European consumers and reducing overall welfare—effectively 'shooting oneself in the foot'."
+            }
+        ]
+    },
+    {
         "id": "2026-01-15",
         "date": "2026-01-15",
         "source": "BBC News",
