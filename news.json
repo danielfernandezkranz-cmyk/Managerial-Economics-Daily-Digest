@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-01-20-2",
+        "date": "2026-01-20",
+        "source": "CNBC",
+        "title": "Trump claims California's $20 fast-food minimum wage hurts businesses. The truth is a lot more complicated",
+        "summary": "President Trump criticized California's $20 minimum wage for fast-food workers, predicting disaster. However, data shows a more nuanced picture with turnover down and no widespread closures, though prices have risen and profits are squeezed.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.cnbc.com/2025/11/22/trump-california-20-fast-food-minimum-wage.html",
+        "questions": [
+            {
+                "question": "Faced with a mandatory wage hike to $20/hour, fast-food restaurants have to adjust to stay profitable. Which of the following is a common margin-adjustment channel mentioned or implied for this industry?",
+                "options": [
+                    "Raising menu prices for consumers.",
+                    "Reducing operating hours or staffing levels (labor hours).",
+                    "Replacing workers with automation (kiosks, AI drive-thrus).",
+                    "All of the above."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. Firms respond to higher labor costs by trying to pass costs to consumers (higher prices) or by reducing labor usage (cutting hours, automating tasks)."
+            },
+            {
+                "question": "According to the article's data, the policy resulted in approximately 16,000 fewer fast-food jobs (out of ~700,000 total, a ~2% decrease) while increasing average hourly wages from roughly $17.30 to $20 (a ~15-17% increase). What does this trade-off imply about the magnitude of the response?",
+                "options": [
+                    "The percentage loss in employment was much smaller than the percentage gain in wages.",
+                    "The percentage loss in employment was much larger than the percentage gain in wages.",
+                    "Employment dropped to zero.",
+                    "Wages actually decreased."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. A 2% drop in quantity (jobs) is significantly smaller than the ~16-17% increase in price (wages)."
+            },
+            {
+                "question": "Using the approximate numbers provided (Price change +15.6%, Quantity change -1.9%), calculate the Price Elasticity of Labor Demand. (Formula: % Change in Q / % Change in P).",
+                "options": [
+                    "-0.12 (Inelastic)",
+                    "-1.0 (Unit Elastic)",
+                    "-2.5 (Elastic)",
+                    "+0.5 (Positive)"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Elasticity = -1.9% / 15.6% ≈ -0.12. This indicates that the demand for fast-food labor is inelastic—employers did not reduce hiring proportionately to the wage hike."
+            },
+            {
+                "question": "Based on the elasticity estimate of -0.12 (Inelastic demand), what is the effect of this minimum wage increase on the *total* welfare (total income) of the fast-food workforce?",
+                "options": [
+                    "The total labor income received by the workforce increased.",
+                    "The total labor income received by the workforce decreased.",
+                    "Total income remained exactly the same.",
+                    "It is impossible to determine."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. When demand is inelastic (|E| < 1), a price increase (wage hike) leads to a proportionately smaller drop in quantity (jobs). Therefore, the total revenue (or in this case, total wages paid to workers) increases. The workers who kept their jobs gained much more in raises than was lost by those few who lost their jobs."
+            }
+        ]
+    },
+    {
         "id": "2026-01-20",
         "date": "2026-01-20",
         "source": "The Economist",
