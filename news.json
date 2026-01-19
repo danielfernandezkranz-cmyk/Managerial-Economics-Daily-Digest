@@ -1,5 +1,49 @@
 [
     {
+        "id": "2026-01-20",
+        "date": "2026-01-20",
+        "source": "The Economist",
+        "title": "Why America’s bond market just keeps winning",
+        "summary": "Despite rising debt and political attacks on the Fed, US Treasury yields have defied expectations by falling. The article explores three reasons: US relative strength compared to other struggling G7 economies, expectations of slower growth making bonds attractive, and the possibility that markets are potentially underpricing the risks of radical policy shifts.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/2026/01/18/why-americas-bond-market-just-keeps-winning",
+        "questions": [
+            {
+                "question": "One explanation for the US bond market's resilience despite high deficits is its relative strength compared to other G7 economies. Which of the following best describes this 'cleanest dirty shirt' argument?",
+                "options": [
+                    "The US has lower debt-to-GDP than all other G7 nations.",
+                    "While US fiscal fundamentals are poor, other major economies like Japan, France, and the UK face even direr structural or growth problems, making the US dollar and Treasuries a comparative safe haven.",
+                    "The US is the only G7 economy running a budget surplus.",
+                    "The US economy is smaller and easier to manage."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article notes that while Uncle Sam is indebted, other major economies face even worse fiscal or growth crises (Japan's debt, France's crisis, Britain's stagnation), making the US look 'chaste enough' by comparison."
+            },
+            {
+                "question": "Another explanation for falling bond yields is related to economic growth expectations. How does a slowdown in economic growth typically affect the bond market?",
+                "options": [
+                    "Slower growth usually leads to expectations of lower interest rates, which increases demand for existing bonds and raises their price (lowering yields).",
+                    "Slower growth increases tax revenue, reducing the supply of bonds.",
+                    "Slower growth makes stocks more attractive than bonds, causing yields to rise.",
+                    "Slower growth causes the central bank to sell bonds, raising yields."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. 'Bonds do well when growth falls.' Slow growth implies lower future interest rates (to stimulate the economy). This makes the fixed interest payments of existing bonds more attractive, driving up their price and lowering their yield."
+            },
+            {
+                "question": "A less optimistic explanation is that the market is simply 'getting it wrong' regarding the risks of new radical policies. If investors suddenly realize these risks (inflation, reduced Fed independence) are higher than priced, what would happen to bond yields?",
+                "options": [
+                    "Yields would fall further as investors flock to safety.",
+                    "Yields would remain unchanged as markets are efficient.",
+                    "Yields would spike (prices crash) as investors demand a higher risk premium to hold US debt.",
+                    "Yields would turn negative."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. If the market is underpricing risk, a sudden realization (or 'twigging') would cause a sell-off. Investors would demand a higher yield (risk premium) to compensate for the newly perceived danger of holding US assets."
+            }
+        ]
+    },
+    {
         "id": "2026-01-18",
         "date": "2026-01-18",
         "source": "Reuters",
