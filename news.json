@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-01-21",
+        "date": "2026-01-21",
+        "source": "IISS",
+        "title": "The future of dollar dominance",
+        "summary": "The US dollar remains the backbone of global finance, accounting for 56% of reserves. However, rapid politicization of the currency and threats to Federal Reserve independence are accelerating the search for alternatives. The article explores the 'exorbitant privilege' the US enjoys and the emerging fragmented monetary landscape.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.iiss.org/online-analysis/six-analytic-blog/2026/01/the-future-of-dollar-dominance/",
+        "questions": [
+            {
+                "question": "The article refers to the US dollar's status as providing an 'exorbitant privilege.' In the context of government borrowing, what does this privilege specifically allow the US to do compared to other nations?",
+                "options": [
+                    "It allows the US to borrow at lower interest rates because global demand for safe, liquid dollar assets remains high, even when deficits are large.",
+                    "It allows the US to completely avoid repaying its debts.",
+                    "It forces other countries to pay taxes directly to the US Treasury.",
+                    "It prevents the US government from ever running a budget deficit."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. 'Exorbitant privilege' refers to the benefit the US derives from issuing the world's reserve currency. Constantly high global demand for US Treasuries (as a safe haven and collateral) pushes bond prices up and yields (borrowing costs) down, allowing the US to finance debt more cheaply than its fiscal fundamentals might otherwise dictate."
+            },
+            {
+                "question": "Related to this 'exorbitant privilege,' how does the dollar's dominance affect the US's ability to run trade and fiscal deficits?",
+                "options": [
+                    "It allows the US to sustain larger trade and fiscal deficits for longer periods without facing an immediate currency crisis or balance of payments crisis.",
+                    "It requires the US to always run a trade surplus to maintain the currency's value.",
+                    "It has no impact on trade balances.",
+                    "It forces the US to adopt strict austerity measures immediately."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Because the world needs dollars for trade and reserves, the US can print money to pay for imports (running a trade deficit) and sell debt to foreign central banks (financing a fiscal deficit) without the currency depreciating rapidly as it would for a typical emerging market."
+            },
+            {
+                "question": "According to the article, what are the primary *domestic* drivers currently fueling uncertainty about the dollar's long-term stability?",
+                "options": [
+                    "A sudden lack of technological innovation in the US banking sector.",
+                    "US domestic vulnerabilities (like high public debt) and political challenges to Federal Reserve independence.",
+                    "Too much regulation in the cryptocurrency market.",
+                    "A decrease in the US population."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The text highlights 'US domestic vulnerabilities' (like the deteriorating fiscal outlook) and 'challenges to Federal Reserve independence' (such as political attacks or criminal probes into the Chair) as key factors shaking trust in the currency."
+            },
+            {
+                "question": "As states and companies seek greater resilience against potential dollar weaponization, which assets are explicitly mentioned in the article as alternatives for diversification?",
+                "options": [
+                    "Gold and Bitcoin ('Digital Gold').",
+                    "Real estate in Antarctica.",
+                    "Stock options in US tech companies.",
+                    "Copper and Zinc only."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The article cites Gold (breaking $4,600/oz) and 'Digital gold' (Bitcoin) as specific examples of assets being accumulated for resilience and diversification away from the dollar."
+            },
+            {
+                "question": "Despite the fragmentation and search for alternatives, why does the US dollar remain the 'monetary hegemon' for now?",
+                "options": [
+                    "Because international law mandates the use of the dollar.",
+                    "Because of America's unrivaled balance-sheet depth, mature financial markets, and the sheer scale of liquidity which no other currency can currently match.",
+                    "Because the US has the largest population in the world.",
+                    "Because the Euro and Yen have ceased to exist."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article concludes that despite de-dollarization efforts, the 'network effects' and depth of US capital markets mean there is currently no viable alternative that can provide sufficient liquidity to support the entire global financial system."
+            }
+        ]
+    },
+    {
         "id": "2026-01-20-2",
         "date": "2026-01-20",
         "source": "CNBC",
