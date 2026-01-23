@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-01-23",
+        "date": "2026-01-23",
+        "source": "CNBC",
+        "title": "10-year Treasury yield moves lower as investors monitor escalating trade tensions",
+        "summary": "Treasury yields fell (bond prices rose) as fears of a 'Sell America' trade eased following President Trump's decision to pause tariffs on European allies. The article highlights how political risk temporarily led investors to demand a higher risk premium on US debt, challenging its traditional safe-haven status.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.cnbc.com/2026/01/21/ust-reasury-yields-trade-tensions-geopolitical-risks-in-focus.html",
+        "questions": [
+            {
+                "question": "In standard economic theory, how does a 'Safe Haven' asset typically behave during times of geopolitical turmoil or trade uncertainy?",
+                "options": [
+                    "Investors sell the asset, causing its price to fall and its yield to rise.",
+                    "Investors flock to buy the asset, driving its price up and its yield down.",
+                    "The asset becomes illiquid and stops trading.",
+                    "The central bank automatically devalues the asset."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A Safe Haven asset (like US Treasuries historically) is where investors park cash to avoid risk. This surge in demand drives the price of the bond up. Since bond prices and yields move inversely, the yield falls."
+            },
+            {
+                "question": "However, the article notes that prior to the de-escalation, yields were *rising* (prices falling) despite the trade tensions. What is the explanation for this 'Sell America' trade?",
+                "options": [
+                    "Investors were selling US assets because they viewed the US policy itself as the source of risk, demanding a higher risk premium to hold US debt.",
+                    "Investors were selling because the US economy was growing too fast.",
+                    "Investors were confusing US Treasuries with German Bunds.",
+                    "Yields were rising because the Fed raised interest rates overnight."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Instead of a safe haven, US debt was viewed as risky. The threat of tariffs and unpredictable trade wars made the US look like an unreliable partner. Investors 'dumped' assets or demanded a higher return (yield) to compensate for this specific political risk."
+            },
+            {
+                "question": "What does the existence of a 'Sell America' trade suggest about the status of the US Dollar and Treasuries?",
+                "options": [
+                    "Their status as a risk-free Safe Haven is unconditional and eternal.",
+                    "They are immune to political decisions.",
+                    "Their Safe Haven status is not guaranteed; if US policy is seen as erratic or self-harming, markets may start pricing US debt like a risky asset rather than a risk-free one.",
+                    "It suggests the US Dollar is pegged to Gold."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The market reaction indicates that the 'exorbitant privilege' has limits. If political risk emanating from the US itself becomes too high, the 'risk-free' asset starts carrying a risk premium, undermining its safe-haven role."
+            },
+            {
+                "question": "Following President Trump's announcement that he would NOT impose tariffs, yields moved lower (prices rose). How does the risk premium concept explain this?",
+                "options": [
+                    "The announcement removed the specific political risk premium, so investors became willing to accept a lower yield again (buying back into the bonds).",
+                    "The announcement increased the risk premium, causing yields to fall.",
+                    "The announcement signaled higher inflation, which lowers yields.",
+                    "The announcement had no effect; it was random noise."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The de-escalation removed the immediate threat (the 'bad news' source). As the perceived risk of a trade war evaporated, the extra compensation (risk premium) investors demanded to hold US debt disappeared, and yields fell back toward fundamentals."
+            }
+        ]
+    },
+    {
         "id": "2026-01-21",
         "date": "2026-01-21",
         "source": "IISS",
