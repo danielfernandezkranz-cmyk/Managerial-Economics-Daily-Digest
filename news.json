@@ -1,5 +1,82 @@
 [
     {
+        "id": "2026-01-26",
+        "date": "2026-01-26",
+        "source": "Financial Times",
+        "title": "Can Europe still afford its generous state pensions?",
+        "summary": "Rising numbers of older people across Europe are straining budgets, forcing difficult political decisions. With pension spending significantly outpacing other sectors and demographic shifts accelerating, countries face a dilemma: raise taxes, cut benefits, or increase the retirement age—all of which face stiff public opposition.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.ft.com/content/9c3c1ec8-9ccf-46bb-977d-e877dcf564e6",
+        "questions": [
+            {
+                "question": "According to the article, what is the 'root of the problem' facing European pension systems, as described by economists?",
+                "options": [
+                    "The shift from Pay-As-You-Go to private funded systems has failed.",
+                    "The challenge of funding increased spending on defense, energy transition, and new technologies while simultaneously maintaining high pension spending.",
+                    "The sudden decrease in life expectancy across the continent.",
+                    "The refusal of the European Union to provide subsidies."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Economist Antoine Bozio frames the problem as a fiscal trade-off: 'how do we fund increased spending on defence, the energy transition and new technologies, while spending so much on pensions?'"
+            },
+            {
+                "question": "Most major European pension systems (like those in Germany, France, and Italy) are 'pay-as-you-go'. What does this mean?",
+                "options": [
+                    "Current workers pay contributions that are immediately used to pay the pensions of current retirees.",
+                    "Each worker has an individual investment account that they can access upon retirement.",
+                    "The government prints new money for every pension check.",
+                    "Pensions are paid solely from the profits of state-owned enterprises."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. In a 'pay-as-you-go' system, there is no large pot of assets savings for each individual. Instead, current contributions and general taxation are transferred directly to current retirees."
+            },
+            {
+                "question": "The article highlights a contradiction in public opinion regarding pension reform in countries like France, Germany, Spain, and Italy. What is this contradiction?",
+                "options": [
+                    "Citizens believe pensions are too low but want to lower taxes.",
+                    "Citizens believe the systems are unaffordable, yet they oppose the necessary remedies (raising retirement age, raising taxes, or means-testing).",
+                    "Citizens want to retire later but the government forces them to retire early.",
+                    "Citizens want to switch to a Canadian-style funded system but the government refuses."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A YouGov poll found that while most people believe the systems are unaffordable, there is 'net opposition' to the obvious fixes: raising the pension age, increasing taxes, or reducing benefits."
+            },
+            {
+                "question": "If European governments decide to finance the growing pension burden through fiscal expansion (increasing the deficit by issuing more debt) rather than raising taxes, what is the likely impact on the market for Loanable Funds and interest rates (assuming no change in monetary policy)?",
+                "options": [
+                    "The demand for loanable funds increases, driving real interest rates up.",
+                    "The supply of loanable funds increases, driving real interest rates down.",
+                    "The demand for loanable funds decreases, driving real interest rates down.",
+                    "Interest rates remain unchanged because government debt is risk-free."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Increased government borrowing increases the demand for loanable funds. In the standard model (and keeping monetary policy constant), this excess demand pushes the 'price' of borrowing (the real interest rate) upward."
+            },
+            {
+                "question": "Following from the previous question, if the government's increased borrowing to pay for pensions drives up interest rates, it may lead to the 'Crowding Out' effect. What describes this effect?",
+                "options": [
+                    "Private investment rises because higher interest rates attract foreign capital.",
+                    "Private investment falls because businesses find it more expensive to borrow and invest in physical capital.",
+                    "Government spending crowds out imports, improving the trade balance.",
+                    "Households crowd out the government by buying all the bonds."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Crowding Out occurs when higher government borrowing raises interest rates, which makes borrowing more costly for private firms. As a result, private investment spending declines, potentially offsetting some of the stimulus from the government spending."
+            },
+            {
+                "question": "Alternatively, the theory of 'Ricardian Equivalence' suggests that a debt-financed expansion of pension payments might not stimulate aggregate demand at all. Why?",
+                "options": [
+                    "Because consumers are irrational and hate receiving money.",
+                    "Because forward-looking citizens anticipate that the government will have to raise taxes (or cut benefits) in the future to pay off the debt, so they save the extra money today instead of spending it.",
+                    "Because the central bank will automatically cancel the debt.",
+                    "Because pensioners spend all their income on imported goods."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Ricardian Equivalence posits that rational agents see government borrowing as merely deferred taxation. Anticipating future tax hikes to service the debt, they increase their private savings today by an equivalent amount, leaving total Aggregate Demand unchanged."
+            }
+        ]
+    },
+    {
         "id": "2026-01-23",
         "date": "2026-01-23",
         "source": "CNBC",
