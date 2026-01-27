@@ -1,5 +1,49 @@
 [
     {
+        "id": "2026-01-27",
+        "date": "2026-01-27",
+        "source": "Kiel Institute",
+        "title": "America's own goal: Americans pay almost entirely for Trump’s tariffs",
+        "summary": "A new study by the Kiel Institute reveals that 96% of the burden of US import tariffs is borne by American importers and consumers, with foreign exporters absorbing only 4%. The research, analyzing over 25 million shipment records, shows that while trade volumes collapsed, export prices from countries like India remained unchanged, debunking the myth that foreign countries pay the tariffs.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.kielinstitut.de/publications/news/americas-own-goal-americans-pay-almost-entirely-for-trumps-tariffs/",
+        "questions": [
+            {
+                "question": "A 'Terms of Trade Gain' occurs for an importing country if the imposition of tariffs forces foreign exporters to lower their prices (absorbing the tax) to maintain market share. According to the article's findings on Indian and Brazilian exports, did the US realize this gain?",
+                "options": [
+                    "Yes, foreign exporters lowered prices significantly to offset the tariffs.",
+                    "No, because foreign exporters did not lower their prices; they maintained their 'Free on Board' prices and simply shipped less, implying the US did not get cheaper imports to offset the tax.",
+                    "Yes, because the US government collected $200 billion in revenue.",
+                    "No, because the US dollar depreciated."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The study found that export prices from India (FOB) remained unchanged relative to other markets. Since foreign suppliers did not lower their pre-tax prices, the US did not improve its Terms of Trade (ratio of export prices to import prices)."
+            },
+            {
+                "question": "Tax Incidence Theory posits that the burden of a tax (like a tariff) falls more heavily on the side of the market that is less elastic (less responsive to price). The study found that US consumers/importers bear 96% of the tariff burden, while foreign exporters bear only 4%. What does this imply about the elasticity of *Foreign Supply* to the US market?",
+                "options": [
+                    "Foreign Supply is relatively inelastic (foreigners are desperate to sell to the US at any price).",
+                    "Foreign Supply is perfectly inelastic.",
+                    "Foreign Supply is very elastic (foreigners can easily stop selling to the US or re-route goods to other markets if the price they receive drops, so they refuse to absorb the tax).",
+                    "Elasticity is irrelevant."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. If foreigners were inelastic (desperate), they would lower prices to keep selling. The fact that they maintained prices and just stopped shipping (volume collapsed) implies high elasticity—they are willing to exit the market rather than take a price cut."
+            },
+            {
+                "question": "International trade typically brings about efficiency gains. Conversely, tariffs restrict trade. The article notes that trade volumes from affected countries 'collapsed' (e.g., shipments from India dropped ~24%). What economic concept describes the loss of total welfare (efficiency) resulting from these mutually beneficial trades that are now *not* happening?",
+                "options": [
+                    "Consumer Surplus",
+                    "Producer Surplus",
+                    "Deadweight Loss",
+                    "Comparative Advantage"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The 'collapse' in trade volume means there are many transactions that would have been beneficial to both buyer and seller but are now prevented by the tax. The loss of potential surplus from these missing trades is known as Deadweight Loss."
+            }
+        ]
+    },
+    {
         "id": "2026-01-26",
         "date": "2026-01-26",
         "source": "Financial Times",
