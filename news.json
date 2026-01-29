@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-01-29",
+        "date": "2026-01-29",
+        "source": "The Economist / Financial Times",
+        "title": "A Cautionary Tale: Turkey's 2021 Crisis and the Threat to Fed Independence",
+        "summary": "As the US Department of Justice investigates Fed Chair Jerome Powell over building renovation costs just months before his term expires, economists warn of the parallels with Turkey in 2021. President Erdogan's removal of a hawkish central banker in favor of a loyalist who cut rates sparked a currency crisis and 85% inflation, serving as a stark warning of what happens when political pressure overrides monetary orthodoxy.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/leaders/2021/03/27/recep-tayyip-erdogan-wrecks-turkeys-economic-credibility",
+        "questions": [
+            {
+                "question": "In March 2021, Turkish President Erdogan fired Central Bank Governor Naci Agbal. What was the specific policy action taken by Agbal that led to his dismissal?",
+                "options": [
+                    "He lowered interest rates too aggressively.",
+                    "He raised the benchmark interest rate significantly (to 19%) to fight rising inflation/defend the currency.",
+                    "He refused to print money to fund the government's infrastructure projects.",
+                    "He pegged the Turkish Lira to the US Dollar."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Naci Agbal was a 'hawk' who raised rates by 875 basis points to restore credibility and fight inflation. Erdogan, who holds the unorthodox view that high interest rates *cause* inflation, fired him essentially for doing his job correctly."
+            },
+            {
+                "question": "Upon appointing a new, compliant governor who shared his views, Turkey embarked on an unorthodox experiment: cutting interest rates while inflation was already rising. According to standard monetary theory, what is the predictable result of lowering nominal rates when inflation expectations are unanchored?",
+                "options": [
+                    "Real interest rates rise, slowing the economy.",
+                    "Real interest rates become deeply negative, causing the currency to collapse and inflation to spiral out of control.",
+                    "Inflation immediately falls because borrowing costs for businesses are lower.",
+                    "The exchange rate stabilizes as foreign investors applaud the growth-friendly policy."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Lowering nominal rates when inflation is high pushes *Real* Interest Rates (Nominal - Inflation) deep into negative territory. This makes holding the currency unattractive, leading to a sell-off (depreciation), which raises import prices and fuels a hyperinflationary spiral (Turkey's inflation hit ~85%)."
+            },
+            {
+                "question": "Fast forward to the US in 2026: The current administration is putting pressure on Fed Chair Jerome Powell. Unlike Turkey's direct firing, what specific legal mechanism is being used to threaten Powell's position or credibility?",
+                "options": [
+                    "A DoJ investigation into alleged fraud/cost overruns regarding the renovation of the Federal Reserve headquarters.",
+                    "An executive order directly lowering interest rates.",
+                    "A congressional vote to abolish the Federal Reserve.",
+                    "A Supreme Court ruling declaring the Fed unconstitutional."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The administration has launched a criminal investigation into Powell's testimony regarding the $2.5 billion renovation of the Fed's buildings, using this 'scandal' as leverage potentially to remove him or force compliance."
+            },
+            {
+                "question": "If the US President were to succeed in replacing Powell with a 'puppet' Chair who lowers rates despite sticky inflation (mimicking the Turkey 2021 scenario), what is the primary institutional risk to the US economy?",
+                "options": [
+                    "The Federal Reserve would run out of cash.",
+                    "Loss of Central Bank Independence (Fiscal Dominance), leading to a de-anchoring of long-term inflation expectations.",
+                    "The US stock market would crash immediately and never recover.",
+                    "The US government would pay off all its debt overnight."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The core value of an independent central bank is its credibility to fight inflation even when it's politically painful. If the market believes the Fed is dominated by fiscal/political needs (Fiscal Dominance), they will expect higher future inflation, driving up long-term bond yields and potentially destabilizing the dollar."
+            },
+            {
+                "question": "Erdogan justified his 2021 policy with the belief that 'interest rates are the mother of all evil' and cause inflation. In contrast, what is the orthodox 'Taylor Rule' prescription for a Central Bank when inflation is above target?",
+                "options": [
+                    "Nominal interest rates should be raised by *more* than the increase in inflation to increase real rates (The Taylor Principle).",
+                    "Interest rates should be kept at 0% forever.",
+                    "Interest rates should be lowered to reduce business costs.",
+                    "The money supply should be increased."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. To cool down an overheating economy, the Central Bank must raise nominal rates more than 1-for-1 with inflation. This raises the *Real* interest rate, which dampens demand and brings inflation back to target."
+            }
+        ]
+    },
+    {
         "id": "2026-01-27",
         "date": "2026-01-27",
         "source": "Kiel Institute",
