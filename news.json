@@ -2,24 +2,11 @@
     {
         "id": "2026-01-29",
         "date": "2026-01-29",
-        "source": "Al Jazeera / BBC / Reuters",
+        "source": "Michigan Journal of Economics",
         "title": "A Cautionary Tale: Turkey's 2021 Crisis and the Threat to Fed Independence",
         "summary": "As the US Department of Justice investigates Fed Chair Jerome Powell over building renovation costs just months before his term expires, economists warn of the parallels with Turkey in 2021. President Erdogan's removal of a hawkish central banker in favor of a loyalist who cut rates sparked a currency crisis and 85% inflation, serving as a stark warning of what happens when political pressure overrides monetary orthodoxy.",
         "imageUrl": "assets/images/digest_cover.png",
-        "articleLinks": [
-            {
-                "text": "Read Al Jazeera: Turkey's Erdogan fires central bank chief Agbal",
-                "url": "https://www.aljazeera.com/economy/2021/3/20/turkeys-edogan-fired-central-bank-chief-agbal"
-            },
-            {
-                "text": "Read BBC: Turkey's Erdogan sacks central bank chief Naci Agbal",
-                "url": "https://www.bbc.com/news/business-56479702"
-            },
-            {
-                "text": "Read Reuters: Turkey's Erdogan ousts central bank governor",
-                "url": "https://www.reuters.com/article/turkey-currency-int-idUSKBN2BD0G6"
-            }
-        ],
+        "articleUrl": "https://sites.lsa.umich.edu/mje/2022/05/17/the-breakdown-of-erdoganomics/",
         "questions": [
             {
                 "question": "In March 2021, Turkish President Erdogan fired Central Bank Governor Naci Agbal. What was the specific policy action taken by Agbal that led to his dismissal?",
