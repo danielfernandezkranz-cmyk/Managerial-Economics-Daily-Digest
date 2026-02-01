@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-01",
+        "date": "2026-02-01",
+        "source": "Fortune",
+        "title": "Kevin Warsh’s Fed nod sends gold plunging and chops 31.4% off silver as dollar strengthens",
+        "summary": "Markets reacted sharply to Kevin Warsh's nomination as Fed Chair, with gold and silver prices plunging and the dollar strengthening. Investors are weighing Warsh's past criticism of Fed bond-buying against his recent support for lower rates, sparking debate about the future of central bank independence and the 'safe haven' status of precious metals. US stocks fell while bond yields inched higher.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://fortune.com/2026/01/31/what-happened-gold-silver-dollar-markets-kevin-warsh-fed-reaction/",
+        "questions": [
+            {
+                "question": "The article notes that the yield on the 10-year Treasury inched up to 4.25%. Since bond prices and yields move inversely, what does this rise in yield indicate about the market's demand for US government bonds in this specific instance?",
+                "options": [
+                    "Investors were buying bonds aggressively, driving prices up.",
+                    "Investors were selling bonds (or demanding less), driving prices down.",
+                    "The Fed was buying bonds to lower rates.",
+                    "Yields rose because the coupon payment increased."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A rise in yield corresponds to a fall in bond prices. This selling pressure (or reduced demand) pushes the price down and the yield up, reflecting investor caution or expectations of higher future rates/inflation."
+            },
+            {
+                "question": "The article mentions that fears of the Fed losing independence previously helped 'catapult the price of gold.' Why would a politized Fed (threat to independence) typically drive investors toward assets like gold?",
+                "options": [
+                    "Because a politized Fed is expected to be more hawkish and keep inflation too low.",
+                    "Because a politized Fed might prioritize short-term political goals (like stimulating the economy with low rates) over long-term price stability, raising inflation risks.",
+                    "Because gold pays a higher interest rate than bonds.",
+                    "Because the President controls the price of gold directly."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Investors fear 'Fiscal Dominance' or political pressure where the central bank prints money to fund the government or boost reelection chances. This undermines the currency's value (inflation), making 'hard assets' like gold more attractive stores of value."
+            },
+            {
+                "question": "Gold dropped 11.4% and silver plunged 31.4% after a 'stellar run.' The article suggests this might be an inevitable correction because 'nothing goes up in price forever.' In financial markets, what is a 'correction'?",
+                "options": [
+                    "A government intervention to fix prices.",
+                    "A sustained increase in prices over a long period.",
+                    "A short-term decline in asset prices of at least 10% to adjust for overvaluation.",
+                    "When the central bank prints more money."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. A market correction is generally defined as a decline of 10% or more from a recent peak. It often occurs when an asset's price has risen too far, too fast (overvaluation) and investors take profits or reassess risks."
+            },
+            {
+                "question": "The US dollar 'rallied' (strengthened) following the nomination. If the dollar strengthens, what is the immediate impact on US importers and exporters, ceteris paribus?",
+                "options": [
+                    "US exports become cheaper for foreigners, boosting exports.",
+                    "US imports become more expensive, hurting consumers.",
+                    "US imports become cheaper (benefiting consumers), but US exports become more expensive for foreigners (hurting exporters).",
+                    "It has no effect on trade."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. A stronger dollar buys more units of foreign currency, making foreign goods (imports) cheaper for Americans. Conversely, foreigners need more of their currency to buy one dollar, making US goods (exports) more expensive for them."
+            },
+            {
+                "question": "The article mentions that yields felt upward pressure from a report showing 'U.S. inflation at the wholesale level was hotter last month.' Why does higher-than-expected inflation typically lead to higher nominal bond yields?",
+                "options": [
+                    "Because the Fisher Equation states Nominal Rate ≈ Real Rate + Expected Inflation; if inflation expectations rise, nominal rates rise to compensate lenders.",
+                    "Because higher inflation makes bonds more valuable.",
+                    "Because the Fed automatically lowers rates when inflation is high.",
+                    "Because inflation reduces the government's need to borrow."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Investors demand a positive real return. If they expect higher inflation to erode the purchasing power of the bond's fixed payments, they will demand a higher nominal yield (by paying a lower price) to compensate for that inflation risk."
+            }
+        ]
+    },
+    {
         "id": "2026-01-29",
         "date": "2026-01-29",
         "source": "Michigan Journal of Economics",
