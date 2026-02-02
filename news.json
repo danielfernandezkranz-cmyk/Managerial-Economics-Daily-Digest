@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-02",
+        "date": "2026-02-02",
+        "source": "The Economist",
+        "title": "What will Kevin Warsh’s Federal Reserve look like?",
+        "summary": "President Trump has nominated Kevin Warsh to lead the Federal Reserve. Formerly a hawk, Warsh now advocates for rate cuts, arguing that an AI-driven productivity boom will quell inflation. However, he remains a staunch critic of Quantitative Easing (QE). The article questions his ability to sway the FOMC and the potential threat to Fed independence.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like",
+        "questions": [
+            {
+                "question": "Kevin Warsh argues that a 'productivity-enhancing boom in artificial intelligence' will wipe away inflation. In the AD-AS framework, how does a positive productivity shock affect the macroeconomy?",
+                "options": [
+                    "It shifts Aggregate Demand to the right, raising prices and output.",
+                    "It shifts Long-Run Aggregate Supply (LRAS) to the right, lowering the price level and increasing real GDP.",
+                    "It shifts Short-Run Aggregate Supply to the left, causing stagflation.",
+                    "It has no effect on the price level."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A productivity boom allows the economy to produce more output with the same inputs. This positive supply shock shifts the LRAS curve to the right, which puts downward pressure on the price level (disinflation) while boosting economic growth."
+            },
+            {
+                "question": "The article mentions Warsh's 'hatred' of Quantitative Easing (QE), comparing it to dangerous biological research. What is the primary mechanism of QE?",
+                "options": [
+                    "The Central Bank lowering the Federal Funds Rate to zero.",
+                    "The government printing money to pay its bills directly.",
+                    "Large-scale asset purchases (LSAPs) of long-term government bonds to lower long-term interest rates.",
+                    "The Central Bank selling gold to strengthen the currency."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. QE involves the central bank creating reserves to purchase long-term assets (like 10-year Treasuries) from the private sector. This increases the money supply and lowers long-term yields to stimulate the economy."
+            },
+            {
+                "question": "The article notes that 'Bond yields have barely budged.' If markets believed Warsh would recklessly cut rates despite high inflation, what would be the expected reaction in the 10-year Treasury market?",
+                "options": [
+                    "Demand for bonds would rise, pushing yields down.",
+                    "Demand for bonds would fall, pushing yields up (spiking).",
+                    "Yields would remain exactly the same.",
+                    "The Treasury would stop issuing bonds."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. If investors expect higher inflation ('unanchored expectations') due to a dovish Fed, they will demand a higher nominal yield to compensate for the expected loss of purchasing power. This leads to selling pressure, lowering prices and raising yields."
+            },
+            {
+                "question": "Warsh will have only one of the 12 votes on the committee that sets interest rates. Which body is this?",
+                "options": [
+                    "The Board of Governors.",
+                    "The Federal Open Market Committee (FOMC).",
+                    "The Council of Economic Advisers.",
+                    "The Senate Banking Committee."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The FOMC (Federal Open Market Committee) dictates monetary policy. It consists of 12 voting members: 7 Governors and 5 Reserve Bank Presidents."
+            },
+            {
+                "question": "Warsh was previously known as a 'ferocious inflation hawk.' What does it mean to be a 'hawk' in monetary policy?",
+                "options": [
+                    "A policymaker who prioritizes low unemployment above all else.",
+                    "A policymaker who prioritizes price stability and is willing to raise interest rates to fight inflation.",
+                    "A policymaker who favors weak currency.",
+                    "A policymaker who supports fiscal deficits."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A 'hawk' is aggressive in keeping inflation low, typically by favoring higher interest rates, whereas a 'dove' emphasizes growth and employment."
+            }
+        ]
+    },
+    {
         "id": "2026-02-01",
         "date": "2026-02-01",
         "source": "Fortune",
