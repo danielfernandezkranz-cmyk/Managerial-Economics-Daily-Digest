@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-03",
+        "date": "2026-01-22",
+        "source": "The Economist",
+        "title": "The ascent of India’s economy",
+        "summary": "India's economy is defying expectations with a 'Goldilocks moment' of high growth and low inflation, despite facing new US tariffs and global headwinds. The Economist attributes this performance to three main factors: good luck with monsoons, fiscal consolidation, and significant structural reforms in labor and infrastructure.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/2026/01/22/the-ascent-of-indias-economy",
+        "questions": [
+            {
+                "question": "According to the article, what has been the trend for India's GDP growth and inflation rate over the recent quarters?",
+                "options": [
+                    "GDP growth is slowing down while inflation is rising (Stagflation).",
+                    "Both GDP growth and inflation are rising (Overheating).",
+                    "GDP growth is accelerating (rising to 8.2%) while inflation is declining (down to 1.3%).",
+                    "Both GDP growth and inflation are falling (Recession)."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The article reports that in the year to the third quarter, GDP grew by 8.2% (faster than expected) while inflation fell significantly to 1.3%."
+            },
+            {
+                "question": "In the standard Aggregate Demand and Aggregate Supply (AD-AS) model, which type of shift is consistent with the combination of rising Real GDP and falling Price Levels (inflation) observed in India?",
+                "options": [
+                    "An outward (rightward) shift of the Aggregate Supply curve.",
+                    "An outward (rightward) shift of the Aggregate Demand curve.",
+                    "an inward (leftward) shift of the Aggregate Supply curve.",
+                    "An inward (leftward) shift of the Aggregate Demand curve."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. An outward shift of the Aggregate Supply curve (Positive Supply Shock) moves the equilibrium point along the AD curve to the right and down, resulting in higher output (Y) and a lower price level (P)."
+            },
+            {
+                "question": "The article cites 'luck' in the form of two consecutive years of good monsoon rains as a key factor. How does this weather event translate into an outward shift of the Aggregate Supply curve?",
+                "options": [
+                    "It increases consumer confidence, shifting AD to the right.",
+                    "It lowers the cost of production (specifically food prices, a major input/wage determinant), acting as a positive supply shock.",
+                    "It destroys crops, creating scarcity.",
+                    "It causes the central bank to print more money."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Good rains boost agricultural output, which lowers food prices. Since food is a major part of the CPI and a basic necessity, lower food prices effectively reduce the cost of living and input costs for the economy, shifting the Short-Run Aggregate Supply (SRAS) curve to the right."
+            },
+            {
+                "question": "The text highlights 'structural reforms' such as the creation of digital-payments infrastructure, new labour codes, and improved infrastructure. In the long run, how do these supply-side policies affecting productivity interact with the AD-AS model?",
+                "options": [
+                    "They do not affect the model.",
+                    "They shift the Long-Run Aggregate Supply (LRAS) curve to the right by increasing the economy's potential output/capacity.",
+                    "They shift the Aggregate Demand curve to the left by reducing government spending.",
+                    "They cause a permanent recession."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Structural reforms that improve efficiency (digital payments), flexibility (labor codes), or capital stock (infrastructure) increase the total productivity of the economy. This expands the economy's productive capacity, shifting the Vertical LRAS curve to the right."
+            },
+            {
+                "question": "The government has also 'thinned' Quality Control Orders (QCOs) on intermediate goods and reduced tariffs on components caused by protectionism. Why would reducing trade barriers on *intermediate* goods lead to an outward shift of Aggregate Supply?",
+                "options": [
+                    "It encourages consumers to buy more foreign luxury goods.",
+                    "It reduces the production costs for domestic manufacturers who use these inputs, allowing them to produce more at any given price level.",
+                    "It protects domestic infant industries from competition.",
+                    "It increases tax revenue for the government."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Intermediate goods are inputs in the production process (e.g., chemicals for textiles). Reducing tariffs or regulatory compliance costs on these inputs lowers the marginal cost of production for firms. Lower input costs shift the SRAS curve to the right."
+            }
+        ]
+    },
+    {
         "id": "2026-02-02",
         "date": "2026-02-02",
         "source": "The Economist",
