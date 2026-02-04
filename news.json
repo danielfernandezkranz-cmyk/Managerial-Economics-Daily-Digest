@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-04",
+        "date": "2026-02-04",
+        "source": "Wall Street Journal",
+        "title": "U.S. Manufacturing Is in Retreat and Trump’s Tariffs Aren’t Helping",
+        "summary": "Despite promises of a manufacturing 'golden age', the sector is contracting with job losses and shrinking activity. The WSJ reports that while tariffs aimed to protect domestic industry, they have increased input costs for manufacturers like Insteel and NN, forcing some to raise prices or look abroad. The article highlights the complex interplay between protectionist policies, global supply chains, and long-term investment timelines.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.wsj.com/economy/u-s-manufacturing-is-in-retreat-and-trumps-tariffs-arent-helping-d2af4316",
+        "questions": [
+            {
+                "question": "The article mentions that manufacturers like Insteel Industries are struggling because tariffs on imported raw steel (an input) have doubled. According to the Theory of Comparative Advantage, what is the 'Static Welfare Effect' of such a tariff on the domestic economy?",
+                "options": [
+                    "It creates a Deadweight Loss because the loss in consumer surplus (higher prices) exceeds the gain in producer surplus and government revenue.",
+                    "It leads to a Pareto Improvement where everyone is better off.",
+                    "It increases total welfare by keeping money inside the country.",
+                    "It has no effect on welfare."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Tariffs distort prices, causing consumers (in this case, downstream manufacturers) to buy less and domestic producers to produce more than is efficient. This misallocation of resources leads to a net loss of total welfare known as Deadweight Loss."
+            },
+            {
+                "question": "The CEO of NN notes that they 'trimmed [their] U.S. workforce... to compete with low-cost factories abroad' and that Mexico remains a more attractive location for some production. Which model best explains this movement of labor-intensive manufacturing to countries with relatively abundant low-skilled labor?",
+                "options": [
+                    "The Heckscher-Ohlin Model (Comparative Advantage based on Factor Endowments).",
+                    "The New Trade Theory (Economies of Scale).",
+                    "The Gravity Model of Trade.",
+                    "The Phillips Curve."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The Heckscher-Ohlin model predicts that countries will export goods that use their abundant factors intensely. Mexico, having relatively abundant labor compared to the US, has a comparative advantage in labor-intensive manufacturing, leading US firms to offshoring such tasks."
+            },
+            {
+                "question": "The article highlights that auto and chip makers (like TSMC) face 'capital plans and construction timelines entending years' and involve massive upfront investments. These high fixed costs and 'Internal Economies of Scale' are a core feature of which trade theory?",
+                "options": [
+                    "Imperfect Competition / New Trade Theory.",
+                    "Ricardian Model of Comparative Advantage.",
+                    "Mercantilism.",
+                    "Perfect Competition."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. New Trade Theory (associated with Paul Krugman) emphasizes that many modern industries (like autos and chips) are characterized by increasing returns to scale (high fixed costs) and imperfect competition (oligopoly), rather than the constant returns to scale assumed in classical models."
+            },
+            {
+                "question": "Despite tariffs, the US continues to both import and export automotive components (like the precision parts NN makes). This phenomenon of 'Intra-Industry Trade' (trading similar goods) is best explained by:",
+                "options": [
+                    "Product Differentiation and Economies of Scale.",
+                    "Differences in Climate and Natural Resources.",
+                    "Absolute Advantage.",
+                    "Differences in Technology only."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. In the Imperfect Competition model, countries trade similar goods (e.g., US exports Ford parts, imports Toyota parts) because consumers value variety (Product Differentiation) and firms gain from producing specific varieties at a large scale (Economies of Scale)."
+            },
+            {
+                "question": "The administration argues that the long-term vision is to make industries 'self-sufficient' through protection and subsidies (like for chips), hoping they will eventually become competitive. This arguments is known as:",
+                "options": [
+                    "The Infant Industry Argument.",
+                    "The Law of One Price.",
+                    "The Efficient Market Hypothesis.",
+                    "Purchasing Power Parity."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The Infant Industry Argument suggests that deeper protective measures (tariffs/subsidies) are needed temporarily to allow new or uncompetitive domestic industries to learn by doing and achieve the Economies of Scale necessary to compete globally."
+            }
+        ]
+    },
+    {
         "id": "2026-02-03",
         "date": "2026-02-03",
         "source": "The Economist",
