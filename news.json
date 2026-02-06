@@ -1,5 +1,49 @@
 [
     {
+        "id": "2026-02-06",
+        "date": "2026-02-06",
+        "source": "Wall Street Journal / Trading Economics",
+        "title": "Donald J. Trump: My Tariffs Have Brought America Back",
+        "summary": "President Trump cites 4.4% annualized GDP growth in Q3 2025 as evidence of his tariffs' success. However, data from Trading Economics reveals this growth was largely driven by the volatile swings in imports since 'Liberation Day' in April 2025—imports skyrocketed in Q1 to beat the tariffs, then plummeted in subsequent quarters.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.wsj.com/opinion/donald-j-trump-my-tariffs-have-brought-america-back-2248391b?st=XkXFar&reflink=desktopwebshare_permalink",
+        "questions": [
+            {
+                "question": "In the standard GDP equation (GDP = C + I + G + NX), how do Imports (M) functionally enter the calculation?",
+                "options": [
+                    "They are added, as they are part of total consumption.",
+                    "They are subtracted, because GDP measures only domestic production.",
+                    "They are multiplied by the exchange rate.",
+                    "They are excluded entirely."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. GDP measures the value of goods and services produced *within* a country. Because C, I, and G include spending on imports, Imports (M) must be subtracted to avoid counting foreign production."
+            },
+            {
+                "question": "According to the Trading Economics data, how did US imports behave during the first three quarters of 2025?",
+                "options": [
+                    "They declined steadily throughout the year.",
+                    "They increased steadily due to strong consumer demand.",
+                    "They 'skyrocketed' in Q1 (anticipating tariffs) and then 'plummeted' thereafter.",
+                    "They remained unchanged."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. Importers 'front-loaded' goods in Q1 to avoid the upcoming tariffs (which started around 'Liberation Day' in April), causing a temporary spike. Once tariffs were implemented, import volumes fell sharply (plummeted) in Q2 and Q3."
+            },
+            {
+                "question": "How does the 'plummeting' of imports in Q3 2025 mathematically impact the reported GDP growth for that quarter?",
+                "options": [
+                    "It drags down GDP growth because trade volume shrinks.",
+                    "It has zero effect on the calculation.",
+                    "It causes a recession.",
+                    "It boosts GDP growth, because a large decrease in the number being subtracted (Imports) results in a larger total GDP."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. Mechanically, since Imports are subtracted from GDP, a sharp drop in imports contributes positively to the GDP calculation, potentially overstating the strength of the domestic economy."
+            }
+        ]
+    },
+    {
         "id": "2026-02-04",
         "date": "2026-02-04",
         "source": "Wall Street Journal",
