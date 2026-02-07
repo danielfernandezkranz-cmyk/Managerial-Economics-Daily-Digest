@@ -1,5 +1,126 @@
 [
     {
+        "id": "2026-02-07",
+        "date": "2026-02-07",
+        "source": "Investopedia",
+        "title": "The Great Inflation Of 2021 Is Still Haunting The Fed",
+        "summary": "Fed officials recently held interest rates steady, citing concerns that inflation remains stuck above the 2% target. While down significantly from its 9% peak in 2022 to 2.7%, inflation's persistence since the pandemic supply shocks continues to challenge the central bank. Officials are weighing the risk of stalling progress on prices against the risk of weakening the job market, with some members advocating for patience while others push for rate cuts.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.investopedia.com/the-great-inflation-of-2021-2022-is-still-haunting-the-fed-11899905",
+        "questions": [
+            {
+                "question": "According to the article, how has the US inflation rate evolved from its peak in 2022 to December 2025?",
+                "options": [
+                    "It has risen steadily from 2% to 9%.",
+                    "It has fallen from a four-decade high of 9% to 2.7%, but remains above the 2% target.",
+                    "It has remained constant at 9%.",
+                    "It has dropped below 0% (deflation)."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article states that the CPI rose 2.7% over the year in December, far lower than the peak of 9% in 2022, but still above the Fed's 2% goal."
+            },
+            {
+                "question": "When the pandemic first hit in early 2020, Fed officials like Richard Clarida initially misdiagnosed the economic shock. What did they expect to happen?",
+                "options": [
+                    "They expected a massive supply shock that would cause hyperinflation.",
+                    "They expected the virus to be 'disinflationary' because it represented a huge negative shock to Aggregate Demand.",
+                    "They expected oil prices to spike, causing cost-push inflation.",
+                    "They expected the economy to grow faster than ever."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Clarida is quoted saying, 'The net effect of the virus is likely to be disinflationary... it represents a huge shock to aggregate demand.' They feared deflation more than inflation at that time."
+            },
+            {
+                "question": "In reality, the pandemic caused significant disruptions to global supply chains. In the AD-AS model, what kind of inflation is caused by a negative supply shock (a leftward shift of the SRAS curve)?",
+                "options": [
+                    "Demand-Pull Inflation",
+                    "Cost-Push Inflation",
+                    "Built-in Inflation",
+                    "Hyperinflation"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A negative supply shock (like supply chain disruptions) raises the cost of production and shifts the Short-Run Aggregate Supply curve to the left, causing the price level to rise (inflation) and output to fall. This has been a major driver of the post-pandemic inflation."
+            },
+            {
+                "question": "The Federal Reserve has a 'Dual Mandate.' Based on the current dilemma described in the article—balancing sticky inflation against a cooling labor market—what are the two goals of the Dual Mandate?",
+                "options": [
+                    "Maximize Bank Profits and Minimize Regulations.",
+                    "Price Stability (low inflation) and Maximum Employment.",
+                    "A Strong Dollar and a Balanced Budget.",
+                    "Low Taxation and High Government Spending."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The Fed is mandated by Congress to promote effectively the goals of maximum employment and stable prices."
+            },
+            {
+                "question": "If the Federal Reserve cuts interest rates *too early* while inflation is still above target, what is the primary risk according to hawks like Raphael Bostic?",
+                "options": [
+                    "The economy will enter a deep recession.",
+                    "Inflation could re-accelerate or become entrenched at a high level (unanchored expectations).",
+                    "Unemployment will skyrocket immediately.",
+                    "The government debt will be paid off."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Bostic argues for patience, fearing that cutting rates before inflation is fully tamed could cause it to flare up again or settle at a rate above 2%."
+            },
+            {
+                "question": "Conversely, if the Fed keeps interest rates 'higher for longer' to fight inflation, but the labor market weakens significantly, what economic condition could the US face where inflation stays high while unemployment rises?",
+                "options": [
+                    "Deflation",
+                    "Stagflation",
+                    "Hypergrowth",
+                    "Perfect Competition"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Stagflation is the combination of stagnant economic growth (high unemployment) and high inflation. It is the nightmare scenario for central banks because the tools to fight one problem (lowering rates for unemployment vs raising rates for inflation) often worsen the other."
+            },
+            {
+                "question": "Thomas Barkin mentions that the current inflation spike reminds him of the 'painful lesson from the '70s.' What characterizes that period in US economic history?",
+                "options": [
+                    "A period of high growth and low inflation known as the Great Moderation.",
+                    "A period of persistent 'Great Inflation' and stagflation that required painful rate hikes to resolve.",
+                    "The Great Depression.",
+                    "The Dot-com Bubble."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The 1970s were defined by high, volatile inflation and stagflation, which was eventually curbed by Paul Volcker's aggressive interest rate hikes in the early 1980s."
+            },
+            {
+                "question": "Fed Governor Michelle Bowman holds a dissenting view compared to Bostic and Barkin. What does she advocate for?",
+                "options": [
+                    "Raising rates further to crush inflation immediately.",
+                    "Cutting interest rates three times over the next year, believing inflation will fall.",
+                    "Abolishing the Federal Reserve.",
+                    "Pegging the dollar to gold."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article notes that Bowman is confident inflation will fall and believes the Fed should be ready to cut rates ('adjust policy to bring it closer to neutral') to avoid damaging the labor market unnecessarily."
+            },
+            {
+                "question": "How does the fed funds rate influence the broader economy to fight inflation?",
+                "options": [
+                    "Raising the rate lowers borrowing costs, encouraging spending.",
+                    "Raising the rate increases borrowing costs, which dampens consumption and investment (Aggregate Demand), cooling the economy.",
+                    "Raising the rate increases the money supply.",
+                    "It has no effect on the real economy."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. By raising the fed funds rate, the Fed makes borrowing more expensive for households (mortgages, auto loans) and businesses. This reduces demand for goods and services, which helps lower inflation."
+            },
+            {
+                "question": "What is the 'way forward' or market expectation mentioned for the Fed's policy in the coming months (as of early 2026)?",
+                "options": [
+                    "An immediate rate hike in March.",
+                    "Rates held steady for the next two meetings, with a 66% chance of a cut priced in for June.",
+                    "Rates cut to zero immediately.",
+                    "The Fed will stop setting interest rates."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article states that the FOMC is widely expected to hold steady for the next two meetings, with traders pricing in a significant chance of a cut in June, after Powell's term expires."
+            }
+        ]
+    },
+    {
         "id": "2026-02-06",
         "date": "2026-02-06",
         "source": "Wall Street Journal / Trading Economics",
