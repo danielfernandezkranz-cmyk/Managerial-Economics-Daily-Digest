@@ -101,7 +101,11 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         };
 
-        elements.newsImage.src = 'assets/images/digest_cover.png'; // Static cover image
+        if (item.imageUrl) {
+            elements.newsImage.src = item.imageUrl;
+        } else {
+            elements.newsImage.src = 'assets/images/digest_cover.png';
+        }
         elements.newsSource.textContent = item.source;
         elements.newsTitle.textContent = item.title;
         elements.newsSummary.textContent = item.summary;
