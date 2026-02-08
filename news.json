@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-08",
+        "date": "2026-02-08",
+        "source": "The Economics Show / Financial Times",
+        "title": "How big a deal is the EU-India trade agreement?",
+        "summary": "This episode of The Economics Show podcast features an in-depth conversation regarding the recently finalized trade agreement between the European Union and India. Host Soumaya Keynes and a panel of experts examine the geopolitical motivations behind the deal, specifically as a strategic countermeasure to shifting American trade policies. The discussion highlights the primary economic obstacles encountered during negotiations and identifies which sectors were forced to make significant concessions. Furthermore, the program analyzes the anticipated financial impact on both regions, focusing on the substantial reduction of tariffs for European exports and the search for new market opportunities for Indian businesses. This source serves as a comprehensive briefing on how this landmark pact aims to reshape global commerce and strengthen international ties.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://podcast-chile.com/podcast/the-economics-show-with-soumaya-keynes/how-big-a-deal-is-the-eu-india-trade-agreement-wit",
+        "questions": [
+            {
+                "question": "Which European sectors are expected to gain the most ('Winners') from the reduction in Indian tariffs?",
+                "options": [
+                    "Textiles and Agriculture.",
+                    "Information Technology and Business Services.",
+                    "Automobiles (Cars) and Spirits/Alcohol (Wines, Whiskey).",
+                    "Renewable Energy and Steel."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The transcript highlights that the EU 'really wanted to get access to the Indian car market' and the 'alcohol market,' securing significant tariff reductions for cars and shorter phase-out periods for spirits like Scotch whiskey."
+            },
+            {
+                "question": "Which Indian sectors are expected to gain the most ('Winners') from the elimination of EU tariffs?",
+                "options": [
+                    "High-Tech Machinery and Aircraft.",
+                    "Labor-intensive goods such as Garments, Textiles, Shoes, and Marine products.",
+                    "Automobiles and Chemicals.",
+                    "Financial Services and Banking."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Ajay Srivastava notes that the deal eliminates high EU import duties (8-20%) on labor-intensive goods like garments, textiles, and shoes, allowing India to compete with countries like Vietnam even without tariff barriers."
+            },
+            {
+                "question": "Which domestic Indian industries faced the biggest concessions (potential 'Losers' or at least increased competition) in the final deal?",
+                "options": [
+                    "The Information Technology sector.",
+                    "The Steel sector due to the removal of export taxes.",
+                    "The Agricultural sector due to massive imports of European wheat.",
+                    "The Automobile sector (facing 50-60% tariff cuts) and Generic Pharmaceutical producers (facing stricter IP rules)."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. The Indian automobile sector, historically protected, faces deep tariff cuts for the first time. Additionally, the generic medicine industry ('generics') faces potential challenges from stricter Intellectual Property (IP) rules that could delay the introduction of cheaper drugs."
+            },
+            {
+                "question": "Which European sector was considered a sensitive 'defensive interest' (potential 'Loser') and was notably 'carved out' of the deal to prevent protests?",
+                "options": [
+                    "Agriculture, specifically sectors like Beef and Poultry.",
+                    "The Automotive Industry.",
+                    "The Luxury Goods sector.",
+                    "The Pharmaceutical Industry."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. To avoid the backlash seen with the Mercosur deal (e.g., French farmers protesting), sensitive agricultural products like beef and poultry were excluded ('carved out') from the liberalization commitments."
+            },
+            {
+                "question": "Based on the description of the sectors traded (Europe exporting capital-intensive/high-tech goods like cars and machinery; India exporting labor-intensive goods like textiles and shoes), what type of trade does this agreement primarily facilitate?",
+                "options": [
+                    "Intra-Industry Trade (trade in similar goods based on economies of scale).",
+                    "Inter-Industry Trade (trade in different goods based on Comparative Advantage).",
+                    "A Customs Union.",
+                    "A Common Market."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The trade pattern described fits the Heckscher-Ohlin model of Inter-Industry Trade, where countries trade different types of goods based on their factor endowments (Capital-abundant Europe exports capital-intensive goods; Labor-abundant India exports labor-intensive goods). As Ajay Srivastava noted, there is 'product complementarity' rather than direct competition."
+            }
+        ]
+    },
+    {
         "id": "2026-02-07",
         "date": "2026-02-07",
         "source": "Investopedia",
