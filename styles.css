@@ -142,23 +142,24 @@ a {
 }
 
 .news-image-container {
-    height: 350px;
     width: 100%;
     position: relative;
     overflow: hidden;
     background-color: #eee;
+    /* Removed fixed height to allow full image display */
+    min-height: 350px;
 }
 
 .news-image {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.5s ease;
+    height: auto;
+    display: block;
+    /* transition: transform 0.5s ease; removed zoom on hover as it might be distracting for reading text */
 }
 
-.news-card:hover .news-image {
+/* .news-card:hover .news-image {
     transform: scale(1.02);
-}
+} */
 
 .news-source-tag {
     position: absolute;
