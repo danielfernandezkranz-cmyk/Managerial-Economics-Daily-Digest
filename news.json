@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-09",
+        "date": "2026-02-09",
+        "source": "CNBC",
+        "title": "Yen near 160, a record Nikkei 225, higher yields: What experts expect after Sanae Takaichi’s landslide victory",
+        "summary": "Prime Minister Sanae Takaichi secured a landslide election victory, reviving expectations of the 'Takaichi trade'—characterized by a weaker yen, record-high equities, and rising bond yields. Markets anticipate expanded fiscal stimulus and continued dovish monetary policy, though concerns linger about Japan's high debt levels and potential currency intervention as the yen approaches 160 to the dollar.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.cnbc.com/2026/02/09/japan-election-sanae-takaichi-markets-yen-bonds-nikkei-225-jgb-160-usd-ldp.html",
+        "questions": [
+            {
+                "question": "The 'Takaichi trade' described in the article is characterized by which combination of market movements following the election victory?",
+                "options": [
+                    "A stronger Yen, falling equities, and lower bond yields.",
+                    "A weaker Yen, rising equities (Nikkei record highs), and higher long-dated JGB yields.",
+                    "A stronger Yen, rising equities, and lower bond yields.",
+                    "A weaker Yen, falling equities, and irrelevant bond yields."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article states that the 'Takaichi trade' typically involves a weaker yen, rising equities, and higher long-dated Japanese government bond yields, reflecting expectations of dovish monetary policy and fiscal stimulus."
+            },
+            {
+                "question": "The article notes that expectations of 'heavier spending' (expanded fiscal stimulus) could pressure bonds and raise yields. Economically, why does increased government deficit spending typically lead to higher bond yields?",
+                "options": [
+                    "Because the government buys bonds, increasing demand.",
+                    "Because increased government borrowing increases the supply of bonds in the market, lowering their price and raising their yield.",
+                    "Because fiscal stimulus reduces inflation, which lowers nominal rates.",
+                    "Because the central bank sets the yield directly."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. To finance a larger deficit ('heavier spending'), the government must issue more bonds. An increase in the supply of bonds (shifting the supply curve to the right) lowers the equilibrium price of bonds. Since bond prices and yields move inversely, yields rise."
+            },
+            {
+                "question": "With the Yen approaching 160 to the dollar, the article mentions the possibility of 'intervention' by Japanese authorities. What does direct currency market intervention to *strengthen* the Yen typically involve?",
+                "options": [
+                    "The Bank of Japan lowering interest rates further.",
+                    "The Ministry of Finance selling Yen and buying Dollars.",
+                    "The Ministry of Finance using foreign reserves (selling Dollars) to buy Yen in the open market.",
+                    "The government banning imports."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. To strengthen the domestic currency (the Yen), authorities must increase the demand for it. They do this by selling their foreign currency reserves (like US Dollars) and using the proceeds to buy Yen, pushing its value up."
+            },
+            {
+                "question": "Analysts describe Takaichi's stance as 'dovish' on monetary policy. In central banking terms, what does being a 'dove' generally imply?",
+                "options": [
+                    "Prioritizing price stability above all else and favoring high interest rates to fight inflation.",
+                    "Prioritizing economic growth and employment, typically favoring lower interest rates or looser monetary policy.",
+                    "Advocating for a return to the Gold Standard.",
+                    "Rejecting the use of fiat currency."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. A 'dovish' policymaker is more concerned with stimulating growth and reducing unemployment than with aggressively fighting inflation, and thus tends to favor lower interest rates and monetary expansion."
+            },
+            {
+                "question": "Japan is noted as the 'most indebted nation in the world' with a debt-to-GDP ratio near 230%. Despite this, the article mentions that the ratio has recently declined. Mathematically, how can the Debt-to-GDP ratio fall even if the government is still running a deficit (issuing new debt)?",
+                "options": [
+                    "It is impossible; the ratio must always rise if there is a deficit.",
+                    "If the nominal GDP (the denominator) grows faster than the nominal Debt (the numerator).",
+                    "If the government cancels the debt.",
+                    "If the central bank buys all the debt."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The Debt-to-GDP ratio depends on both variables. Even if the total Debt increases (numerator rises), the ratio will fall if the GDP (denominator) grows at a faster percentage rate (g > r, or simply high nominal growth) than the accumulation of new debt."
+            }
+        ]
+    },
+    {
         "id": "2026-02-08",
         "date": "2026-02-08",
         "source": "The Economics Show / Financial Times",
