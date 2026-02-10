@@ -1,5 +1,27 @@
 [
     {
+        "id": "2026-02-11",
+        "date": "2026-02-11",
+        "source": "Financial Times",
+        "title": "Trump's Tariff Tracker: Tracking the Effective US Tariff Rate",
+        "summary": "The Financial Times provides a comprehensive tracker of the effective tariff rates imposed by the Trump administration across various product categories and countries. The data reveals the evolution of these tariffs over time, highlighting significant increases in specific sectors.",
+        "imageUrl": "assets/images/ft_tariff_tracker.jpg",
+        "articleUrl": "https://www.ft.com/content/2c473393-35fb-479d-8bba-236a1a98087c",
+        "questions": [
+            {
+                "question": "Looking at the evolution of tariff rates across product categories imposed by the Trump administration (see figure above and also in the FT link), it's clear that Trump is levying import tariffs according to:",
+                "options": [
+                    "the comparative advantage of the US",
+                    "the potential comparative advantage and to take advantage of economies of scale and industry clusters",
+                    "who actually knows, but not CA or potential CA-Economies of scale models",
+                    "good economic reasoning"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The pattern of tariffs does not align with standard economic models of Comparative Advantage or Economies of Scale, suggesting a more ad-hoc or political motivation ('who actually knows')."
+            }
+        ]
+    },
+    {
         "id": "2026-02-10",
         "date": "2026-02-10",
         "source": "The Economist",
