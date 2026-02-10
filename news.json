@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-10",
+        "date": "2026-02-10",
+        "source": "The Economist",
+        "title": "Europe and South America seal a trade pact for the Trump era",
+        "summary": "After 25 years of negotiations, the EU and Mercosur have finalized a landmark trade deal. Driven by geopolitical shifts (Trump's protectionism, diversifying from China) and the need for raw materials, the pact reduces tariffs on 90% of goods. While European farmers protest fearing cheap beef imports (dubbed 'Cows for Cars'), the deal is primarily about opening markets for European machinery and services in exchange for Mercosur's agricultural and raw material exports.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/europe/2026/01/11/europe-and-south-america-seal-a-trade-pact-for-the-trump-era",
+        "questions": [
+            {
+                "question": "The trade deal is often dubbed 'Cows for Cars' because Mercosur exports agricultural products (beef) while the EU exports industrial goods (cars, machinery). What type of trade does this pattern represent?",
+                "options": [
+                    "Intra-Industry Trade (trade in similar goods).",
+                    "Inter-Industry Trade (trade in different goods based on comparative advantage).",
+                    "Horizontal Intra-Industry Trade.",
+                    "Service-based Trade only."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. This is a classic example of Inter-Industry Trade, where countries trade products from different industries (Agriculture vs Manufacturing) based on their differing factor endowments."
+            },
+            {
+                "question": "Which international trade model best predicts the 'Inter-Industry' trade pattern seen in this deal (Land-abundant South America exporting food; Capital-abundant Europe exporting machinery)?",
+                "options": [
+                    "The Economies of Scale (Imperfect Competition) Model.",
+                    " The Comparative Advantage (Heckscher-Ohlin) Model.",
+                    "The Gravity Model of Trade.",
+                    "The Product Life Cycle Theory."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The Comparative Advantage (Heckscher-Ohlin) model predicts trade based on factor endowments: countries export goods that intensively use their abundant factors (Land for Mercosur, Capital/Tech for EU). The Economies of Scale model typically explains Intra-Industry trade between similar economies."
+            },
+            {
+                "question": "According to the article, which group in Europe has been the primary opponent of the deal, fearing a 'flood of cheap' imports?",
+                "options": [
+                    "Car Manufacturers.",
+                    "Financial Service Providers.",
+                    " farmers (especially beef and sugar producers).",
+                    "Tech Startups."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. European farmers, particularly in France, have long opposed the deal, fearing competition from cheaper South American beef and sugar imports, leading to the 'Cows for Cars' criticism."
+            },
+            {
+                "question": "Besides economic gains, what is a primary 'geoeconomic' motivation for the EU to finalize this deal now?",
+                "options": [
+                    "To support Russia's economy.",
+                    "To diversify supply chains away from China and counter US protectionism.",
+                    "To adopt the US Dollar as a common currency.",
+                    "To reduce trade with Latin America."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article highlights the deal as a strategic move to diversify away from reliance on China for raw materials and to strengthen ties in the face of 'American protectionism' under Trump."
+            },
+            {
+                "question": "Despite the political noise from farmers ('Cows for Cars'), how does the article describe the actual economic scale of the agricultural imports involved?",
+                "options": [
+                    "They are massive and will destroy European agriculture entirely.",
+                    "They are minuscule (e.g., wine exports are 0.0013% of GDP; beef quota is 1.5% of EU production).",
+                    "They account for 50% of the EU's total GDP.",
+                    "Farmers will actually export more beef to South America."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article notes that economically, agriculture is a 'tiny part of the deal,' with the beef quota representing only 1.5% of EU production and wine exports a negligible fraction of GDP, suggesting the opposition is politically driven rather than based on aggregate economic impact."
+            }
+        ]
+    },
+    {
         "id": "2026-02-09",
         "date": "2026-02-09",
         "source": "CNBC",
