@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-02-12",
+        "date": "2026-02-12",
+        "source": "The Economist",
+        "title": "Who wrangled the best trade deal from Donald Trump?",
+        "summary": "President Trump has signed new trade agreements with countries like Argentina, India, and Malaysia, offering partial tariff relief in exchange for commitments. While Trump claims victory based on market access and investment pledges, the deals are 'thin' and lack binding enforcement. The Economist argues that countries making the largest concessions (liberalizing their own markets) may ironically be the true economic winners, despite the political backlash.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump",
+        "questions": [
+            {
+                "question": "According to the article, how does the 'Mercantilist' view of trade (attributed to Trump) differ from the standard economic view presented?",
+                "options": [
+                    "Mercantilists view trade as a zero-sum game where exports and surpluses are 'winning', whereas economists emphasize that imports benefit consumers and competition.",
+                    "Mercantilists believe imports are good because they lower prices, while economists believe exports are good because they create jobs.",
+                    "Mercantilists focus on Comparative Advantage, while economists focus on Absolute Advantage.",
+                    "Both views agree that trade deficits are always beneficial for the economy."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The article contrasts Trump's view (deficits = failure, surpluses = success) with the economic reality that 'exports good, imports bad' is a poor way to keep score, as tariffs impose costs on consumers while partner liberalization benefits their own economies."
+            },
+            {
+                "question": "Contrary to the mercantilist scorecard, who does the article suggest might ultimately 'win' the most from these trade deals?",
+                "options": [
+                    "The United States, because it secured the most tariff revenue.",
+                    "The countries that made the largest concessions (like Malaysia or the EU), because they were forced to open and liberalize their economies.",
+                    "China, because it was excluded from the deals.",
+                    "No one, because all trade is bad."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article concludes that 'the countries that made the largest concessions may be the ones which gain the most' because their reforms (easing restrictions, lowering barriers) will outlast the deals and improve their own economic efficiency."
+            },
+            {
+                "question": "On what basis does President Trump consider himself the 'clear winner' of these trade deals?",
+                "options": [
+                    "He secured lower prices for American consumers.",
+                    "He obtained greater market access for US exporters and vast investment pledges from partners.",
+                    "He successfully eliminated all global tariffs.",
+                    "He strengthened international institutions like the WTO."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. From a zero-sum perspective, Trump 'won' by securing concessions: greater market access for US firms, promises to dismantle non-tariff barriers, and 'vast investment pledges' (even if unlikely to be fulfilled)."
+            },
+            {
+                "question": "What does the article identify as a negative economic consequence of the higher tariffs America maintains or imposes in these deals?",
+                "options": [
+                    "They protect infant industries and foster innovation.",
+                    "They impose costs on American consumers and reduce domestic competition.",
+                    "They have no effect on the US economy.",
+                    "They increase the real wages of all American workers."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article states that America's higher tariffs 'impose costs on consumers and reduce competition,' highlighting the downside of the protectionist approach for the domestic economy."
+            }
+        ]
+    },
+    {
         "id": "2026-02-10T2",
         "date": "2026-02-10",
         "source": "Financial Times",
