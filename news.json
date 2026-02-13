@@ -1,5 +1,60 @@
 [
     {
+        "id": "2026-02-13",
+        "date": "2026-02-13",
+        "source": "Bruegel",
+        "title": "'Made with Europe' not 'Made in Europe' should guide EU industrial policy",
+        "summary": "Bruegel experts argue that the upcoming EU 'Industrial Accelerator Act' should avoid strict 'Made in Europe' local-content requirements, which mirror Import Substituting Industrialization (ISI) strategies. Instead, they advocate for a 'Made with Europe' approach that leverages global Comparative Advantage and international partnerships. They warn that protectionism could raise costs for downstream exporters and provoke retaliation, while suggesting that intervention should be limited to strategic cases of high dependence (addressing Imperfect Competition/Security risks) rather than broad protectionism.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.bruegel.org/first-glance/made-europe-not-made-europe-should-guide-eu-industrial-policy",
+        "questions": [
+            {
+                "question": "The article argues that EU industrial policy should 'embrace global comparative advantages' rather than imposing strict local-content requirements. Which economic model supports the idea that countries maximize welfare by specializing in what they produce most efficiently and trading for the rest?",
+                "options": [
+                    "The Import Substitution Industrialization (ISI) Model.",
+                    "The Ricardian or Heckscher-Ohlin Model of Comparative Advantage.",
+                    "The Strategic Trade Policy Model based on Imperfect Competition.",
+                    "The Mercantilist Model."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The Comparative Advantage model (Ricardian/H-O) demonstrates that global efficiency and welfare are maximized when countries specialize based on their relative efficiencies, rather than trying to produce everything domestically ('Made in Europe')."
+            },
+            {
+                "question": "The proposal to introduce strict 'Made in Europe' local-content requirements to replace foreign imports is most similar to which development strategy, often criticized for creating inefficiencies?",
+                "options": [
+                    "Export Oriented Industrialization (EOI), which focuses on competing in global markets.",
+                    "Import Substituting Industrialization (ISI), which focuses on replacing imports with domestic production.",
+                    "The 'Washington Consensus' of free trade and deregulation.",
+                    "Regional Economic Integration (like the EU Single Market itself)."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Local-content requirements are a classic tool of Import Substituting Industrialization (ISI), a strategy that seeks to develop domestic industries by blocking imports. The article warns this could 'raise costs for export-oriented industries,' a common failure mode of ISI."
+            },
+            {
+                "question": "The authors warn that 'Made in Europe requirements could raise costs for export-oriented industries.' In the context of trade theory, why does protecting upstream domestic industries (e.g., steel, batteries) often hurt downstream export industries (e.g., cars)?",
+                "options": [
+                    "Because it lowers the exchange rate, making exports cheaper.",
+                    "Because it forces downstream producers to use more expensive or lower-quality domestic inputs, reducing their global competitiveness.",
+                    "Because it increases the supply of skilled labor for everyone.",
+                    "Because foreign consumers prefer costly goods."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Protectionism (e.g., tariffs or local content rules) on intermediate goods raises the cost of production for domestic firms that use those goods as inputs. If European carmakers must buy more expensive 'Made in Europe' batteries, their cars become less competitive globally compared to rivals using cheaper global inputs."
+            },
+            {
+                "question": "While rejecting broad protectionism, the article advocates for intervention when there is 'high degree of dependence on a single-country supplier.' How does this align with the 'Imperfect Competition' or Strategic Trade framework?",
+                "options": [
+                    "It assumes Perfect Competition where no single supplier has market power.",
+                    "It recognizes that in markets with Imperfect Competition (monopolies/oligopolies), relying on a dominant foreign supplier creates economic vulnerability/rent extraction, justifying strategic diversification.",
+                    "It suggests that all trade should be banned to prevent monopolies.",
+                    "It argues that comparative advantage does not exist in high-tech industries."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The Imperfect Competition model acknowledges that in real-world markets (unlike Perfect Competition), dominant firms or nations can exercise market power. Relieving dependence on a single dominant supplier is a valid strategic objective to prevent price gouging or supply shocks, distinct from simple protectionism."
+            }
+        ]
+    },
+    {
         "id": "2026-02-12",
         "date": "2026-02-12",
         "source": "The Economist",
