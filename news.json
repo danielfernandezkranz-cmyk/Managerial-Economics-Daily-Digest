@@ -110,6 +110,72 @@
         ]
     },
     {
+        "id": "2026-02-11",
+        "date": "2026-02-11",
+        "source": "The Economist",
+        "title": "Brazil’s economy is being throttled by entrenched interests",
+        "summary": "Brazil’s economy has defied expectations with 3% growth, but heavy public debt and entrenched interests threaten stability. The IMF projects debt reaching 99% of GDP by 2030, driven by generous pensions and a complex tax code. Constitutional protections make reform difficult, leaving the country vulnerable to fiscal crisis unless lawmakers act decisively.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/the-americas/2026/02/11/brazils-economy-is-being-throttled-by-entrenched-interests",
+        "questions": [
+            {
+                "question": "According to the article, what is the primary fiscal challenge facing Brazil despite its recent economic growth?",
+                "options": [
+                    "A collapse in agricultural exports.",
+                    "Unsustainable public debt driven by high interest payments and mandatory spending.",
+                    "Deflation caused by weak consumer demand.",
+                    "A trade deficit with China."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article highlights that Brazil's gross public debt is on track to hit 99% of GDP by 2030, with a nominal deficit of 8.1% of GDP composed almost entirely of interest payments."
+            },
+            {
+                "question": "The article explicitly identifies 'entrenched interests' as a major drag on the economy. Which specific group does it name as receiving the 'biggest bungs' (benefits), including generous pensions?",
+                "options": [
+                    "The Judiciary and the Armed Forces.",
+                    "Small business owners in the 'Simples' tax regime.",
+                    "The rural poor receiving Bolsa Família.",
+                    "Tech startup employees."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The article states that 'The judiciary and the armed forces get the biggest bungs,' noting that courts cost 1.3% of GDP and soldiers retire early with full salary pensions."
+            },
+            {
+                "question": "Why is reforming pensions and the tax system described as 'fiendishly difficult' in Brazil?",
+                "options": [
+                    "Because there is no public support for reform.",
+                    "Because these benefits are often written directly into the constitution, requiring super-majorities to change.",
+                    "Because the IMF forbids it.",
+                    "Because the population is too young to care."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article explains that 'reforming pensions requires changing the constitution' and that many tax breaks and benefits are 'enshrined in the constitution,' making them legally difficult to remove."
+            },
+            {
+                "question": "Given the debt sustainability equation that we have seen in class, and considering the following parameter values for the Brazil's economy today (debt to gdp at 80%, inflation at 4.3%, primary deficit at -0.4% of gdp, yield of the ten year gov bond at 13.5%) what is the needed rate of real gdp growth to avoid debt from spiraling out of control?",
+                "options": [
+                    "3.0%",
+                    "23.7%",
+                    "8.8%",
+                    "1.5%"
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The required growth rate to stabilize debt is calculated to be 23.7% based on the provided parameters."
+            },
+            {
+                "question": "Given your answer to the previous question and given that real gdp growth rate in brazil today is around 3%, what is your prediction about the evolution of debt if nothing changes substantially?",
+                "options": [
+                    "Debt will stabilize.",
+                    "Debt will decline rapidly.",
+                    "Debt will spiral out of control.",
+                    "It is impossible to predict."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. Since the actual growth rate (3%) is far below the required rate (23.7%), the debt ratio will continue to rise rapidly ('spiral out of control')."
+            }
+        ]
+    },
+    {
         "id": "2026-02-10T2",
         "date": "2026-02-10",
         "source": "Financial Times",
