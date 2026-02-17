@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-17",
+        "date": "2026-02-17",
+        "source": "Financial Times",
+        "title": "The AI productivity take-off is finally visible",
+        "summary": "Economist Erik Brynjolfsson argues that the 'Solow Paradox' regarding AI is finally resolving. Recent data revisions supporting this view show that the US economy maintained robust GDP growth (3.7%) despite significant downward revisions in payroll growth, a hallmark of productivity gains. The article posits we are transitioning from an investment phase (the 'J-curve' dip) to a harvest phase where AI investments begin to yield measurable output.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5?shareType=nongift",
+        "questions": [
+            {
+                "question": "The article mentions the 'productivity J-curve' to explain why AI gains haven't been visible until now. What does this concept suggest?",
+                "options": [
+                    "Productivity immediately spikes when new technology is invented.",
+                    "General-purpose technologies require a period of massive intangible investment (retraining, reorganizing) which suppresses measured productivity before gains appear.",
+                    "AI is a 'JOKE' technology that will never yield productivity gains.",
+                    "Productivity growth is purely random."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Brynjolfsson argues that during the investment phase, resources are diverted to unmeasured intangible capital (like new business models), which temporarily lowers measured productivity before the payoff ('harvest phase')."
+            },
+            {
+                "question": "The article distinguishes between 'glorified dictionary' use of AI and 'structural utility'. What characterizes the 'power users' driving the productivity boost?",
+                "options": [
+                    "They only use AI to translate emails.",
+                    "They use interactive AI agents to automate complex end-to-end workstreams (e.g., marketing plans) rather than just single tasks.",
+                    "They ban AI in the workplace.",
+                    "They use AI to write poetry only."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article notes that while many use AI for simple summarization, power users leverage it to compress weeks of work into hours by automating entire workflows."
+            },
+            {
+                "question": "What recent data discrepancy cited in the article supports the claim that AI is finally boosting productivity?",
+                "options": [
+                    "Unemployment rose to 10%.",
+                    "Total payroll growth was revised downward by ~403,000 jobs, yet real GDP growth remained robust at 3.7%.",
+                    "GDP growth was negative while hiring exploded.",
+                    "Inflation dropped to 0% immediately."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. Generating high output (Robust GDP) with significantly lower labor input (Revised downward payrolls) is the definition of increased labor productivity."
+            },
+            {
+                "question": "According to the article, this AI-driven productivity boost is equivalent to which of the following?",
+                "options": [
+                    "an outward AD (aggregate Demand) shift",
+                    "an inward AD shift",
+                    "an outward AS shift",
+                    "an inward AS shift"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. A positive productivity shock allows the economy to produce more output at any given price level, representing an outward (rightward) shift of the Aggregate Supply (AS) curve."
+            },
+            {
+                "question": "Given your answer to the previous question, what is the expected effect on the rate of inflation and on monetary policy in the United States?",
+                "options": [
+                    "Higher inflation and higher interest rates.",
+                    "Lower inflation than otherwise would have been expected and lower benchmark interest rates.",
+                    "No change in inflation or interest rates.",
+                    "Deflation and hyper-high interest rates."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. An outward AS shift puts downward pressure on price levels (disinflationary). This allows the central bank to achieve its targets with lower interest rates than would be needed if supply were constrained."
+            }
+        ]
+    },
+    {
         "id": "2026-02-13",
         "date": "2026-02-13",
         "source": "Bruegel",
