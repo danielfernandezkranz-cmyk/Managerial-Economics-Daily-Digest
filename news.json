@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-18",
+        "date": "2026-02-18",
+        "source": "YouTube (Bloomberg Surveillance)",
+        "title": "Inflation Reality Check: CPI, PCE, and Fed Policy",
+        "summary": "This interview explores the nuances of the latest inflation data, suggesting the January CPI of 2.4% may understate true inflation due to data collection gaps during the government shutdown. The discussion highlights the Fed's preference for the PCE deflator, expectations that inflation could rise to 3-3.5% prompting a 'higher for longer' rate policy, and the impact of tariff pass-through. It also addresses the gap between official metrics and consumer sentiment driven by salient prices like groceries and gas.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.youtube.com/watch?v=TwGDUoTvaWI&list=PLtQ-jBytlXCY28ucRF8P1mNMSG8uC06Aw&index=1",
+        "questions": [
+            {
+                "question": "According to the interview, why might the January year-over-year CPI figure of 2.4% understate true inflation?",
+                "options": [
+                    "Because the Bureau of Labor Statistics assumed flat prices during the October shutdown, which may have artificially lowered subsequent year-over-year comparisons",
+                    "Because the CPI excludes energy prices entirely from its calculation",
+                    "Because the CPI double-counts imported goods affected by tariffs",
+                    "Because seasonal adjustment always increases reported inflation rates"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The interview suggests that assuming flat prices during the data gap (shutdown) could have created a lower base or dampened the reported increase, leading to an understatement of the true inflationary trend."
+            },
+            {
+                "question": "Why does the Federal Reserve place greater emphasis on the Personal Consumption Expenditures (PCE) deflator rather than the CPI when setting its 2% inflation target?",
+                "options": [
+                    "Because the PCE accounts for methodological issues in the CPI and provides a broader measure of consumer spending patterns",
+                    "Because the PCE excludes volatile components such as food and energy entirely",
+                    "Because the PCE measures only domestically produced goods and ignores imports",
+                    "Because the PCE is calculated by private firms rather than government agencies"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The PCE is favored because it is broader (covering expenditure on behalf of households, not just out-of-pocket) and adjusts for substitution effects (consumers switching to cheaper goods), offering a more comprehensive view of inflation."
+            },
+            {
+                "question": "If inflation is currently closer to 3% rather than the Fed’s 2% target, and is expected to rise to 3.25–3.5% in the coming months, what is the most likely implication for Federal Reserve interest rate policy?",
+                "options": [
+                    "The Fed is more likely to delay rate cuts or maintain higher interest rates to prevent further inflationary pressure",
+                    "The Fed is likely to immediately cut interest rates to stimulate economic growth",
+                    "The Fed will reduce interest rates because inflation above target increases real interest rates automatically",
+                    "The Fed will ignore inflation and focus exclusively on stock market performance"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. If inflation is rising and sticking above target, the Fed typically maintains restrictive policy ('higher for longer') to cool demand and bring inflation back down, rather than cutting rates."
+            },
+            {
+                "question": "How do tariff pass-through effects influence inflation dynamics discussed in the video?",
+                "options": [
+                    "A high pass-through rate means that tariffs imposed on imports are largely reflected in higher consumer prices, contributing to sustained inflationary pressure",
+                    "Tariffs reduce domestic prices by increasing competition among local firms",
+                    "Tariff pass-through lowers measured inflation because import prices are excluded from CPI calculations",
+                    "Tariffs primarily affect producer profits and have no measurable effect on consumer prices"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. 'Pass-through' refers to how much of the tariff cost is passed on to the consumer. High pass-through means importers simply raise prices, directly increasing inflation."
+            },
+            {
+                "question": "Which of the following best explains why consumers may perceive inflation as higher than official statistics suggest?",
+                "options": [
+                    "Consumers frequently purchase goods like gasoline and groceries, whose prices are more salient and volatile, shaping personal inflation perceptions",
+                    "Consumers systematically ignore quality adjustments that always raise measured inflation",
+                    "Consumers base their perceptions solely on stock market indices rather than consumer prices",
+                    "Consumers calculate inflation using the PCE deflator instead of the CPI"
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. Behavioral economics suggests consumers pay more attention to the prices of frequent purchases (gas, food) ('salience'), often perceiving overall inflation as higher when these specific prices rise, even if the broader basket rises less."
+            }
+        ]
+    },
+    {
         "id": "2026-02-17",
         "date": "2026-02-17",
         "source": "Financial Times",
