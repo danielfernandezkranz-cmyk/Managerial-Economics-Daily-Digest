@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-19",
+        "date": "2026-02-19",
+        "source": "ING",
+        "title": "Euro rates may need to rise more to attract demand in 2026",
+        "summary": "Markets are facing a record amount of government bond supply in 2026, estimated at €930bn. While banks remain the primary price-insensitive buyers due to regulatory needs, investment funds are price-sensitive and may require higher yields to absorb the remaining supply. The ECB's Quantitative Tightening adds to the challenge, potentially pushing 10Y Bund yields to 3.1% by year-end 2026.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://think.ing.com/articles/euro-rates-may-need-to-rise-more-to-attract-demand-in-2026/",
+        "questions": [
+            {
+                "question": "The article distinguishes between different types of buyers for government bonds. Which of the following groups is best characterized as 'price-insensitive' demand, driven largely by regulatory requirements?",
+                "options": [
+                    "Investment Funds",
+                    "Private Equity Firms",
+                    "Banks and Pension Funds",
+                    "Day Traders"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The article notes that price-insensitive demand is often driven by regulatory frameworks, specifically citing banks and pension funds as key examples whose demand is linked to asset growth or liability matching rather than yield seeking."
+            },
+            {
+                "question": "According to the article, why are Dutch pension funds expected to be net sellers of government bonds in 2026?",
+                "options": [
+                    "Because they are effectively bankrupt.",
+                    "Because of the ongoing transition in the Dutch pension system.",
+                    "Because European yields are too low compared to US yields.",
+                    "Because they are switching entirely to crypto-assets."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article explicitly mentions that the demand from pension funds will be significantly reduced and likely turn into net selling due to the ongoing Dutch pension fund transition."
+            },
+            {
+                "question": "What are the two main components driving the record €930bn net supply of European government bonds expected in 2026?",
+                "options": [
+                    "Corporate bond issuance and municipal bonds.",
+                    "New government issuance and massive selling by foreign investors.",
+                    "The ECB's Quantitative Easing (QE) and bank selling.",
+                    "New government issuance and the ECB's Quantitative Tightening (QT)."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. The supply comes from €550bn in government issuance and €380bn from the ECB's Quantitative Tightening (QT) program."
+            },
+            {
+                "question": "Why are banks expected to absorb a significant portion (approx. €210bn) of the bond supply regardless of the price?",
+                "options": [
+                    "To speculate on a possible breakup of the Eurozone.",
+                    "Because they believe yields will fall significantly in 2026.",
+                    "To satisfy regulatory Liquidity Coverage Ratios (LCR) by replenishing HQLA as central bank reserves decrease.",
+                    "Because they have too much cash and no other place to invest it."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. Banks need to hold High Quality Liquid Assets (HQLA) to cover liquidity outflows. As central bank reserves (which count as HQLA) are withdrawn via QT, banks must replace them with government bonds to maintain their LCR."
+            },
+            {
+                "question": "The article concludes that in order to attract 'price-sensitive' buyers like investment funds to fill the demand shortfall, what must happen to Eurozone interest rates (yields)?",
+                "options": [
+                    "Yields must fall to zero to encourage borrowing.",
+                    "Yields will remain exactly constant due to ECB control.",
+                    "Yields are irrelevant to investment funds.",
+                    "Yields may need to rise further (prices fall) to look attractive."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. Since investment funds are not forced by regulation to buy, they are 'price-sensitive' and will only step in if the returns (yields) are high enough to be attractive relative to other assets."
+            }
+        ]
+    },
+    {
         "id": "2026-02-18",
         "date": "2026-02-18",
         "source": "YouTube (Bloomberg Surveillance)",
