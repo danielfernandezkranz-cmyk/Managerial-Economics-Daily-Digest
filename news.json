@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-23",
+        "date": "2026-02-23",
+        "source": "The Economist",
+        "title": "The AI productivity boom is not here (yet)",
+        "summary": "Despite rapid advancements in artificial intelligence and rising workplace adoption, measurable productivity gains have yet to materialize in macroeconomic data. While AI offers substantial time-saving benefits for individual tasks, broad productivity growth remains near its long-run average. Significant organizational rewiring and operational restructuring within firms are still needed before AI's full economic potential can be realized.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet",
+        "questions": [
+            {
+                "question": "According to the article, why might the recent gap between GDP growth and employment growth incorrectly suggest an AI-driven productivity boom?",
+                "options": [
+                    "Because real GDP actually declined in 2025.",
+                    "Because the unemployment rate was calculated incorrectly.",
+                    "Because people are working fewer hours overall.",
+                    "Because much of the GDP growth reflects a surge in capital investment, particularly in AI-related infrastructure, rather than underlying productivity gains."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. Jason Furman estimates roughly 90% of GDP growth in early 2025 came from spending on data centers and related capital investments, and underlying productivity gains (adjusting for this) are close to zero."
+            },
+            {
+                "question": "Despite the rapid advance of AI models, what does the article highlight regarding the intensive use of generative AI in the workplace?",
+                "options": [
+                    "Generative AI has completely replaced human labor in the farming and construction sectors.",
+                    "Only about 13% of working-age adults use generative AI every day, and it accounts for a very small share of total work hours.",
+                    "Almost all workers are using generative AI for more than 50% of their daily tasks.",
+                    "AI usage is distributed evenly across all sectors, primarily for wholesale automation."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The article notes only about 13% of working-age adults use it every day, and the share of total work hours involving generative AI remains small (around 5.7% by mid-2025)."
+            },
+            {
+                "question": "Which of the following best describes the historical comparison the article makes regarding the delayed productivity impact of new technologies?",
+                "options": [
+                    "Early factories saw real revolutionary gains only decades after steam engines were replaced with electric motors, once floor plans were redesigned to maximize the new power source.",
+                    "The internet boom of the 1990s and 2000s failed to produce any productivity gains for decades.",
+                    "The adoption of smartphones caused an immediate and unprecedented spike in worker output.",
+                    "The transition from typewriters to early personal computers immediately accelerated economic growth."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The article uses the transition from steam to electric power to argue that real productivity booms happen when firms reorganize production around a new tool, not just when they adopt it."
+            },
+            {
+                "question": "Based on the article, when AI is applied to individual tasks, its impact on productivity is:",
+                "options": [
+                    "Minimal, rarely resulting in more than a 1% improvement in efficiency.",
+                    "Generally negative, as workers spend significantly more time fixing AI-produced errors.",
+                    "Unmeasurable, as it only affects tasks that cannot be quantified in terms of time.",
+                    "Substantial, with studies showing significant reductions in completion times and 12-30% average productivity gains in real-world professional tasks."
+                ],
+                "correctOption": 3,
+                "explanation": "Correct. The article cites multiple studies (like MIT and BCG) showing AI reduces completion times by nearly 40% for writing tasks and yields productivity improvements of 12-30% on professional tasks."
+            },
+            {
+                "question": "What does the article suggest is the central missing component needed for an AI-driven macroeconomic productivity boom?",
+                "options": [
+                    "Firms fundamentally changing their business models and reorganizing production around the new technology, a process that has barely begun.",
+                    "A larger number of AI models capable of writing computer code.",
+                    "Mandatory daily usage of generative AI by all working-age adults.",
+                    "A significant increase in government subsidies for AI startups."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The article emphasizes that 'organisational rewiring' has barely begun, and historically, productivity accelerates only once firms implement new business models that exploit the technology to its full potential."
+            }
+        ]
+    },
+    {
         "id": "2026-02-19",
         "date": "2026-02-19",
         "source": "ING",
