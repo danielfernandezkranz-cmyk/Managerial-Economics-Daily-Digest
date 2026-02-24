@@ -1,5 +1,71 @@
 [
     {
+        "id": "2026-02-24",
+        "date": "2026-02-24",
+        "source": "Financial Times",
+        "title": "The haven asset status of US Treasuries is eroding",
+        "summary": "The traditional view of US Treasuries as the ultimate risk-free haven asset is being challenged. Concerns over US fiscal capacity, rising public debt approaching wartime levels, and erratic policy shocks under Donald Trump are eroding investor confidence. In response, investors are reshuffling the hierarchy of haven assets, shifting towards alternatives like the Swiss franc, gold, and German Bunds.",
+        "imageUrl": "assets/images/digest_cover.png",
+        "articleUrl": "https://www.ft.com/content/33dfaee5-b846-4372-bfad-ecee7674ffc6?shareType=nongift",
+        "questions": [
+            {
+                "question": "According to the article, what is a primary reason professional investors are increasingly questioning the haven asset status of US Treasuries?",
+                "options": [
+                    "The US public debt is approaching wartime levels as a percentage of GDP, raising concerns about fiscal capacity.",
+                    "The US maintains a massive current account surplus, artificially depressing bond yields.",
+                    "The Federal Reserve has completely eliminated its independence from the executive branch.",
+                    "The US government has legally restricted foreign ownership of all Treasury securities."
+                ],
+                "correctOption": 0,
+                "explanation": "Correct. The article states that with US public debt approaching wartime levels as a percentage of GDP, investors are questioning whether the US has the fiscal capacity to support its massive balance sheet liabilities."
+            },
+            {
+                "question": "The article mentions that along with US Treasuries, another 'quintessential global haven currency' has also experienced a shift, losing value and weakening its risk asset hedging properties. Which currency is this?",
+                "options": [
+                    "The Swiss franc",
+                    "The Singaporean dollar",
+                    "The Japanese yen",
+                    "The British pound"
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The article notes that the Japanese yen, the quintessential global haven currency, began losing value and its historical correlation with other key asset prices changed, weakening its risk hedging properties."
+            },
+            {
+                "question": "As investors reshuffle the hierarchy of safe assets away from US Treasuries and the yen, which alternatives are explicitly mentioned as taking the lead in 'haven rankings'?",
+                "options": [
+                    "US corporate bonds and British gilts.",
+                    "The Swiss franc, Singaporean dollar, gold, and German Bunds.",
+                    "Chinese yuan, tech equities, and residential real estate.",
+                    "Emerging market sovereign debt and cryptocurrencies."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. According to Davide Oneglia, the Swiss franc, Singaporean dollar, gold, and German Bunds are taking the lead in the new hierarchy of haven assets."
+            },
+            {
+                "question": "Based on the comparison between the US and European economies, what investment strategy does the article highlight as logical?",
+                "options": [
+                    "Investing exclusively in US government debt because of its strong balance sheet.",
+                    "Avoiding European assets entirely due to constrained fiscal responses.",
+                    "Seeking equity exposure in the US (stronger income statement) and debt exposure in Europe (stronger balance sheet).",
+                    "Shorting both US and European private sectors in favor of Japanese equities."
+                ],
+                "correctOption": 2,
+                "explanation": "Correct. The article points out that since the US boasts a stronger income statement and Europe a stronger balance sheet, it is logical to seek equity exposure in the US and debt exposure in Europe."
+            },
+            {
+                "question": "The article references the UBS Global Investment Returns Year Book to point out a 'larger paradox' regarding the safety of sovereign bonds. What is this paradox?",
+                "options": [
+                    "Sovereign bonds are completely immune to inflation but highly volatile in nominal terms.",
+                    "Sovereign bond market drawdowns (peak-to-trough falls) have historically been larger and/or longer than those for equities.",
+                    "Equities are always less volatile than sovereign bonds in every economic cycle.",
+                    "US Treasuries have never experienced a real loss in purchasing power over any decade."
+                ],
+                "correctOption": 1,
+                "explanation": "Correct. The paradox is that despite being called 'safe,' historical data shows that bond market drawdowns have been larger and/or longer than for equities, leaving investors vulnerable to substantial real losses (e.g., a 51% loss since July 2020)."
+            }
+        ]
+    },
+    {
         "id": "2026-02-23",
         "date": "2026-02-23",
         "source": "The Economist",
